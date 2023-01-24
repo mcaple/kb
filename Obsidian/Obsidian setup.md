@@ -11,3 +11,5 @@ The packages that we will use are:
 - [Ouliner](https://github.com/vslinko/obsidian-outliner)
 
 Also we will make sure that a daily note is created in the [[Calendar]] package in the folder *daily*
+
+We publish this vault into Github and also Netlify using [[Publish]]
