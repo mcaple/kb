@@ -1,0 +1,3 @@
+Regolith runs [i3](https://i3wm.org/): a popular, fast, and configurable tiling window manager which is great for fast keyboard-driven workflows. Regolith integrates i3 with other desktop components such as `i3bar`, `rofication`, `gnome-flashback`, and [`ilia`](https://github.com/regolith-linux/ilia#readme) to provide a complete desktop interface.
+
+See [regolith desktop](https://regolith-desktop.com/)
