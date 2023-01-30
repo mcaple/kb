@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regolith.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regolith.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regolith.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regolith.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -216,12 +216,12 @@
   },
   "active": "4167c08edffb508f",
   "lastOpenFiles": [
+    "Obsidian/Obsidian setup.md",
     "daily/2023-01-30.md",
     "Regolith.md",
     "daily/2023-01-27.md",
     "daily/2023-01-26.md",
     "daily/2023-01-25.md",
-    "Obsidian/Obsidian setup.md",
     "Obsidian/Publish.md",
     "README.md",
     "daily/2023-01-24.md",
