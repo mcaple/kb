@@ -34,3 +34,11 @@ cd kb
 cp -r ~/Data/md/kb/* .
 ```
 
+### Themes
+
+For correct themes look at [this](https://github.com/secure-77/Perlite/wiki/Themes)
+
+```
+cd /var/www/html/perlite/kb
+cp -r ~/Data/md/kb/.obsidian .
+```
