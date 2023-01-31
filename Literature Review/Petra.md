@@ -21,3 +21,10 @@ In most cases it is helpful that the abstract of an LRP not only describes the p
 The main reasons for rejection are not difficult to summarise. The key element is whether the paper is really a review or more of an overview, and here the key element is the added value. It should be written in an authoritative and constructively critical narrative. Another reason for rejection is that its aims are not met. The paper should clearly state its objectives in the introduction, and the conclusion should return to these objectives to assess whether they have been achieved. A third reason for rejection is that the paper has not been fully developed, as it is really an early draft. This means that the structure is weak, the evidence is partial, and there is no real content or thought in the LRP.
 
 **Make sure Petra accepts LRP's**
+
+##### Final Submission Page limit (including references) :
+
+-   Full papers: 5-10 pages
+-   Short papers: 3-4 pages
+-   Poster papers: 1-2 pages
+-   Workshop papers: 3-10 pages
