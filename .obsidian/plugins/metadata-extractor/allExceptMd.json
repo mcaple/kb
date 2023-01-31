@@ -28,5 +28,12 @@
       "name": "Regolith",
       "relativePath": "Regolith"
     }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    }
   ]
 }
