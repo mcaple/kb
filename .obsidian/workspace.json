@@ -73,7 +73,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "Daily Notes/2023-01-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "867533db2b3b046c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-01-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf2b199a418b615a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Review/Petra.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "Literature Review/Petra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "Literature Review/Petra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx-useage.md"
+                "file": "Literature Review/Petra.md"
               }
             }
           },
@@ -274,8 +298,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "aa64e129fc5048f7",
+  "active": "cf2b199a418b615a",
   "lastOpenFiles": [
+    "Literature Review/ICost.md",
+    "Literature Review/Petra.md",
     "Daily Notes/2023-01-31.md",
     "Nginx/Nginx-useage.md",
     "Obsidian/Useage.md",
@@ -283,8 +309,6 @@
     "Obsidian/Obsidian setup.md",
     "Daily Notes/2023-01-24.md",
     "README.md",
-    "Obsidian/Perlite.md",
-    "Obsidian/Publish.md",
-    "Literature Review/Segah Reviews.md"
+    "Obsidian/Perlite.md"
   ]
 }
