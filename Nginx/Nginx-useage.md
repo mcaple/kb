@@ -12,3 +12,6 @@ sudo systemctl start nginx
 ```
 sudo systemctl status nginx
 ```
+
+### Hosting multiple sites
+
