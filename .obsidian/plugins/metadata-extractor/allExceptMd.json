@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "Attachments"
+    },
+    {
+      "name": "Daily Notes",
+      "relativePath": "Daily Notes"
+    },
+    {
+      "name": "Literature Review",
+      "relativePath": "Literature Review"
+    },
+    {
+      "name": "Nginx",
+      "relativePath": "Nginx"
+    },
+    {
+      "name": "Obsidian",
+      "relativePath": "Obsidian"
+    },
+    {
+      "name": "Regolith",
+      "relativePath": "Regolith"
+    }
+  ]
+}
