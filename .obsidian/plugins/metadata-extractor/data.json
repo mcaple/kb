@@ -1,6 +1,6 @@
 {
   "tagPath": "",
-  "metadataPath": "~/Data/md/kb/metadata.json",
+  "metadataPath": "/home/markc/Data/md/kb/metadata.json",
   "allExceptMdPath": "",
   "canvasPath": "",
   "tagFile": "tags.json",

@@ -4,6 +4,8 @@ Or the full [github](https://github.com/secure-77/Perlite) page.
 
 For setup on local machine:
 
+**After asking on Discourse I was told this is the [way](https://blog.nihilism.network/servers/perlite/)**
+
 #### One time setup
 
 ```

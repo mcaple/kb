@@ -1,0 +1,236 @@
+[
+  {
+    "fileName": "Regolith",
+    "relativePath": "Regolith/Regolith.md",
+    "backlinks": [
+      {
+        "fileName": "2023-01-30",
+        "link": "Regolith",
+        "relativePath": "Daily Notes/2023-01-30.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Readme",
+    "relativePath": "Readme.md",
+    "links": [
+      {
+        "link": "Obsidian setup",
+        "relativePath": "Obsidian/Obsidian setup.md"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "links": [
+      {
+        "link": "Obsidian setup",
+        "relativePath": "Obsidian/Obsidian setup.md"
+      },
+      {
+        "link": "Useage",
+        "relativePath": "Obsidian/Useage.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Useage",
+    "relativePath": "Obsidian/Useage.md",
+    "headings": [
+      {
+        "heading": "Attachments",
+        "level": 5
+      },
+      {
+        "heading": "Useful configuration",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "README",
+        "link": "Useage",
+        "relativePath": "README.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Publish",
+    "relativePath": "Obsidian/Publish.md",
+    "links": [
+      {
+        "link": "Perlite",
+        "displayText": "Obsidian/Perlite",
+        "relativePath": "Obsidian/Perlite.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Obsidian setup",
+        "link": "Publish",
+        "relativePath": "Obsidian/Obsidian setup.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Perlite",
+    "relativePath": "Obsidian/Perlite.md",
+    "headings": [
+      {
+        "heading": "One time setup",
+        "level": 4
+      },
+      {
+        "heading": "Themes",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Publish",
+        "link": "Perlite",
+        "relativePath": "Obsidian/Publish.md",
+        "displayText": "Obsidian/Perlite"
+      }
+    ]
+  },
+  {
+    "fileName": "Obsidian setup",
+    "relativePath": "Obsidian/Obsidian setup.md",
+    "links": [
+      {
+        "link": "Calendar",
+        "relativePath": "Obsidian/Calendar.md"
+      },
+      {
+        "link": "Publish",
+        "relativePath": "Obsidian/Publish.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Readme",
+        "link": "Obsidian setup",
+        "relativePath": "Readme.md"
+      },
+      {
+        "fileName": "README",
+        "link": "Obsidian setup",
+        "relativePath": "README.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Obsidian Useage",
+    "relativePath": "Obsidian/Obsidian Useage.md"
+  },
+  {
+    "fileName": "Calendar",
+    "relativePath": "Obsidian/Calendar.md",
+    "backlinks": [
+      {
+        "fileName": "Obsidian setup",
+        "link": "Calendar",
+        "relativePath": "Obsidian/Obsidian setup.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nginx-useage",
+    "relativePath": "Nginx/Nginx-useage.md",
+    "headings": [
+      {
+        "heading": "Switching with Apache2",
+        "level": 4
+      },
+      {
+        "heading": "Status of the service",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Segah Reviews",
+    "relativePath": "Literature Review/Segah Reviews.md",
+    "backlinks": [
+      {
+        "fileName": "2023-01-30",
+        "link": "Segah Reviews",
+        "relativePath": "Daily Notes/2023-01-30.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Petra",
+    "relativePath": "Literature Review/Petra.md",
+    "headings": [
+      {
+        "heading": "How to write one",
+        "level": 4
+      },
+      {
+        "heading": "Final Submission Page limit (including references) :",
+        "level": 5
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-01-31",
+        "link": "Petra",
+        "relativePath": "Daily Notes/2023-01-31.md"
+      }
+    ]
+  },
+  {
+    "fileName": "ICost",
+    "relativePath": "Literature Review/ICost.md"
+  },
+  {
+    "fileName": "2023-02-01",
+    "relativePath": "Daily Notes/2023-02-01.md"
+  },
+  {
+    "fileName": "2023-01-31",
+    "relativePath": "Daily Notes/2023-01-31.md",
+    "links": [
+      {
+        "link": "Petra",
+        "relativePath": "Literature Review/Petra.md"
+      },
+      {
+        "link": "ICICostost"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-01-30",
+    "relativePath": "Daily Notes/2023-01-30.md",
+    "links": [
+      {
+        "link": "Regolith",
+        "relativePath": "Regolith/Regolith.md"
+      },
+      {
+        "link": "Segah Reviews",
+        "relativePath": "Literature Review/Segah Reviews.md"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-01-27",
+    "relativePath": "Daily Notes/2023-01-27.md"
+  },
+  {
+    "fileName": "2023-01-26",
+    "relativePath": "Daily Notes/2023-01-26.md"
+  },
+  {
+    "fileName": "2023-01-25",
+    "relativePath": "Daily Notes/2023-01-25.md"
+  },
+  {
+    "fileName": "2023-01-24",
+    "relativePath": "Daily Notes/2023-01-24.md"
+  }
+]
