@@ -1,6 +1,6 @@
 {
   "tagPath": "",
-  "metadataPath": "/srv/Perlite/perlite/Obsidian",
+  "metadataPath": "./metadata.json",
   "allExceptMdPath": "",
   "canvasPath": "",
   "tagFile": "tags.json",
