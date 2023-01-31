@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-30.md",
+                "file": "Obsidian/Useage.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-30.md",
+                "file": "Obsidian/Useage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Obsidian/Obsidian setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5cd94eb1c04826a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-24.md",
+                "file": "Daily Notes/2023-01-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Obsidian/Useage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Obsidian/Useage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Perlite.md"
+                "file": "Obsidian/Useage.md"
               }
             }
           },
@@ -231,11 +243,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,17 +262,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b814e1caf7383c95",
+  "active": "394dcf299360c5c0",
   "lastOpenFiles": [
-    "Obsidian/Publish.md",
-    "Obsidian/Perlite.md",
+    "Daily Notes/2023-01-30.md",
+    "Obsidian/Useage.md",
+    "Daily Notes/2023-01-31.md",
     "Obsidian/Obsidian setup.md",
-    "daily/2023-01-30.md",
+    "Daily Notes/2023-01-24.md",
+    "README.md",
+    "Obsidian/Perlite.md",
+    "Obsidian/Publish.md",
     "Literature Review/Segah Reviews.md",
-    "Regolith/Regolith.md",
-    "Readme.md",
-    "daily/2023-01-27.md",
-    "daily/2023-01-26.md",
-    "daily/2023-01-25.md"
+    "Regolith/Regolith.md"
   ]
 }
