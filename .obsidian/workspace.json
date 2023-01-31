@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Daily Notes/2023-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Daily Notes/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Perlite.md",
+                "file": "Daily Notes/2023-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Perlite.md"
+                "file": "Daily Notes/2023-02-01.md"
               }
             }
           },
