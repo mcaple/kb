@@ -87,6 +87,21 @@ sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 
 and reload our curl command will once again work
 
+### Add another site
+
+Refer to [this](https://youtu.be/omPd93uLQDc?t=145) for more details on this
+
+Let's setup a site with the settings for the above example
+
+```
+cd /var/www
+sudo mkdir demo.codewithsusan.com
+cd demo.codewithsusan.com
+sudo nano index.html
+# Add <p>Hello Susan!!</p>
+
+```
+
 
 
 
