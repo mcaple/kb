@@ -2,4 +2,8 @@ The following [article](https://forum.obsidian.md/t/pubsidian-free-and-elegant-o
 
 See also [Publish](https://github.com/yoursamlan/pubsidian).
 
-**Unfortununately** the above is a Windows implementation. So I am going to try [[Obsidian/Perlite]]
+**Unfortununately** the above is a Windows implementation. 
+
+So I am going to try [[Obsidian/Perlite]]
+
+I have set this up at http://localhost:4000
