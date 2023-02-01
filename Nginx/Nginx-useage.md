@@ -148,3 +148,8 @@ now restart with
 sudo systemctl start nginx
 ```
 
+## Running on localhost
+
+As I want to try this on localhost. All I have done is changed the port we are listening on in the server config from 80 to 3000
+
+![[../Attachments/Pasted image 20230201120220.png]]
