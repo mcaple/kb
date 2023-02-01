@@ -100,6 +100,9 @@ cd demo.codewithsusan.com
 sudo nano index.html
 # Add <p>Hello Susan!!</p>
 
+# now set up the site
+cd /etc/nginx/sites-available
+sudo nano demo.codewithsusan.com
 ```
 
 
