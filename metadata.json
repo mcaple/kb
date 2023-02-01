@@ -147,6 +147,18 @@
       {
         "heading": "Status of the service",
         "level": 4
+      },
+      {
+        "heading": "sites-enabled and sites-available",
+        "level": 3
+      },
+      {
+        "heading": "Add another site",
+        "level": 3
+      },
+      {
+        "heading": "Running on localhost",
+        "level": 2
       }
     ]
   },
@@ -187,10 +199,6 @@
     "relativePath": "Literature Review/ICost.md"
   },
   {
-    "fileName": "2023-02-01",
-    "relativePath": "Daily Notes/2023-02-01.md"
-  },
-  {
     "fileName": "2023-01-31",
     "relativePath": "Daily Notes/2023-01-31.md",
     "links": [
@@ -202,6 +210,14 @@
         "link": "ICICostost"
       }
     ]
+  },
+  {
+    "fileName": "2023-01-27",
+    "relativePath": "Daily Notes/2023-01-27.md"
+  },
+  {
+    "fileName": "2023-02-01",
+    "relativePath": "Daily Notes/2023-02-01.md"
   },
   {
     "fileName": "2023-01-30",
@@ -216,10 +232,6 @@
         "relativePath": "Literature Review/Segah Reviews.md"
       }
     ]
-  },
-  {
-    "fileName": "2023-01-27",
-    "relativePath": "Daily Notes/2023-01-27.md"
   },
   {
     "fileName": "2023-01-26",
