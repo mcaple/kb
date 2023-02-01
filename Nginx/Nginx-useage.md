@@ -105,6 +105,46 @@ cd /etc/nginx/sites-available
 sudo nano demo.codewithsusan.com
 ```
 
+Typical server config
 
+```
+server {
+   # listen on port 80
+   listen 80;
 
+   # the url we want this server config to applt to
+   server_name demo.codewithsusan.com;
+
+   # the document root of our site
+   root /var/www/demo.codewithsusan.com;
+
+   # which files to look for
+   index index.php index.html;
+
+   # all requests ending in a PHP will be handled by servers PHP
+   # install
+   location ~ \.php$ {
+      fastcgi_pass unix:/var/run/php/php8.2-fpm.sock;
+      fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+      include fastcgi_params;
+   }
+}
+```
+
+Now create our sym-link with 
+
+```
+sudo ln -s /etc/nginx/sites-available/demo.codewithsusan.com /etc/nginx/sites-enabled
+```
+After all this we can check we have not create an issue with nginx by running
+
+```
+sudo nginx -t
+```
+
+now restart with 
+
+```
+sudo systemctl start nginx
+```
 
