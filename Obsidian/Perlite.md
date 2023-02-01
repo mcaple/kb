@@ -6,6 +6,8 @@ For setup on local machine:
 
 **After asking on Discourse I was told this is the [way](https://blog.nihilism.network/servers/perlite/)**
 
+I have set this up at http://localhost:4000
+
 #### One time setup
 
 ```
