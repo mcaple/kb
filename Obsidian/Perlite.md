@@ -8,6 +8,8 @@ For setup on local machine:
 
 I have set this up at http://localhost:4000
 
+but I could change this to a url part using [this](https://stackoverflow.com/questions/19675839/mapping-a-url-path-to-a-server-in-nginx)
+
 #### One time setup
 
 ```

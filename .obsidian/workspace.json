@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-02-01.md",
+                "file": "Obsidian/Perlite.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-02-01.md",
+                "file": "Obsidian/Perlite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-02-01.md",
+                "file": "Obsidian/Perlite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-02-01.md"
+                "file": "Obsidian/Perlite.md"
               }
             }
           },
@@ -312,11 +312,11 @@
   },
   "active": "f0a0a61f33904138",
   "lastOpenFiles": [
+    "Daily Notes/2023-02-01.md",
     "Obsidian/Perlite.md",
     "Obsidian/Publish.md",
     "Nginx/Nginx-useage.md",
     "Attachments/Pasted image 20230201102613.png",
-    "Daily Notes/2023-02-01.md",
     "Obsidian/Obsidian setup.md",
     "Literature Review/Petra.md",
     "Daily Notes/2023-01-31.md",
