@@ -1,5 +1,6 @@
 {
   "autorun": true,
   "folder": "Timestamps",
-  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd"
+  "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
+  "template": "Bins/Templates/Daily Note Template"
 }
