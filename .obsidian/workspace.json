@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2023/01-January/2023-01-31-Tuesday.md",
+                "file": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2023/01-January/2023-01-31-Tuesday.md",
+                "file": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,18 +121,6 @@
           },
           {
             "id": "6e963524e08fb2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2023/02-February/2023-02-02-Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd865d900dce6050",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -336,17 +324,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd865d900dce6050",
+  "active": "6e963524e08fb2fa",
   "lastOpenFiles": [
     "Bins/Templates/Weekly Note Template.md",
-    "Timestamps/2023/02-February/2023-02-02-Thursday.md",
     "Bins/Templates/Daily Note Template.md",
+    "Timestamps/Weekly/2023/05.md",
+    "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
+    "Timestamps/Weekly/2023/5.md",
+    "Timestamps/2023/02-February/2023-02-02-Thursday.md",
     "Obsidian/Daily note template.md",
-    "Timestamps/2023/02-February/2023-02-01-Wednesday.md",
+    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md",
     "Timestamps/2023/02-February/2023-02-03-Friday.md",
-    "Timestamps/2023/01-January/2023-01-26-Thursday.md",
-    "Timestamps/2023/01-January/2023-01-25-Wednesday.md",
-    "Timestamps/2023-01-24-Tuesday.md",
-    "Timestamps/2023/01-January/2023-01-24-Tuesday.md"
+    "Timestamps/Daily/2023/01-January/2023-01-26-Thursday.md"
   ]
 }

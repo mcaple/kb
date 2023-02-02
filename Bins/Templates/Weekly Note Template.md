@@ -10,9 +10,9 @@ year: <% tp.date.now("YYYY", 0, tp.file.title, "YYYY-[W]W") %>
 
 <%*
 Array.from(Array(7).keys()).map((i) => {
-  date = tp.date.weekday("YYYY-MM-DD", i, tp.file.title, "YYYY-[W]W");
+  date = tp.date.weekday("YYYY/MM-MMMM/YYYY-MM-DD-dddd", i, tp.file.title, "YYYY-[W]W");
   tR += `### ${date}\n`;
-  tR += `![[Tracking/Daily/${date}#Outcomes]]\n\n`;
+  tR += `![[Timestamps/Daily/${date}#Outcomes]]\n\n`;
 });
 %>
 ## Outcomes
