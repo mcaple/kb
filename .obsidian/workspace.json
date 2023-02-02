@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Daily note template.md",
+                "file": "Bins/Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Daily note template.md",
+                "file": "Bins/Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Daily note template.md",
+                "file": "Bins/Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Daily note template.md"
+                "file": "Bins/Templates/Daily Note Template.md"
               }
             }
           },
@@ -325,14 +325,14 @@
   "active": "6e963524e08fb2fa",
   "lastOpenFiles": [
     "Timestamps/2023/02-February/2023-02-02-Thursday.md",
+    "Bins/Templates/Daily Note Template.md",
+    "Obsidian/Daily note template.md",
     "Timestamps/2023/02-February/2023-02-01-Wednesday.md",
     "Timestamps/2023/02-February/2023-02-03-Friday.md",
-    "Bins/Templates/Daily Note Template.md",
     "Timestamps/2023/01-January/2023-01-26-Thursday.md",
     "Timestamps/2023/01-January/2023-01-25-Wednesday.md",
     "Timestamps/2023-01-24-Tuesday.md",
     "Timestamps/2023/01-January/2023-01-24-Tuesday.md",
-    "Timestamps/2023/01-January/2023-01-27-Friday.md",
-    "Timestamps/2023/01-January/2023-01-30-Monday.md"
+    "Timestamps/2023/01-January/2023-01-27-Friday.md"
   ]
 }
