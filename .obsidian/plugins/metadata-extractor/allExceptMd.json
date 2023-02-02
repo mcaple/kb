@@ -9,8 +9,8 @@
       "relativePath": "Attachments"
     },
     {
-      "name": "Daily Notes",
-      "relativePath": "Daily Notes"
+      "name": "Bins",
+      "relativePath": "Bins"
     },
     {
       "name": "Literature Review",
@@ -27,6 +27,38 @@
     {
       "name": "Regolith",
       "relativePath": "Regolith"
+    },
+    {
+      "name": "Timestamps",
+      "relativePath": "Timestamps"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Bins/Templates"
+    },
+    {
+      "name": "Daily",
+      "relativePath": "Timestamps/Daily"
+    },
+    {
+      "name": "Weekly",
+      "relativePath": "Timestamps/Weekly"
+    },
+    {
+      "name": "2023",
+      "relativePath": "Timestamps/Daily/2023"
+    },
+    {
+      "name": "2023",
+      "relativePath": "Timestamps/Weekly/2023"
+    },
+    {
+      "name": "01-January",
+      "relativePath": "Timestamps/Daily/2023/01-January"
+    },
+    {
+      "name": "02-February",
+      "relativePath": "Timestamps/Daily/2023/02-February"
     }
   ],
   "nonMdFiles": [

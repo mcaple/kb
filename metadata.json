@@ -1,14 +1,81 @@
 [
   {
-    "fileName": "Regolith",
-    "relativePath": "Regolith/Regolith.md",
-    "backlinks": [
+    "fileName": "05",
+    "relativePath": "Timestamps/Weekly/2023/05.md",
+    "frontmatter": {
+      "week": "2005-W53",
+      "year": 2005,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
       {
-        "fileName": "2023-01-30",
-        "link": "Regolith",
-        "relativePath": "Daily Notes/2023-01-30.md"
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "History",
+        "level": 2
+      },
+      {
+        "heading": "2004/12-December/2004-12-27-Monday",
+        "level": 3
+      },
+      {
+        "heading": "2004/12-December/2004-12-28-Tuesday",
+        "level": 3
+      },
+      {
+        "heading": "2004/12-December/2004-12-29-Wednesday",
+        "level": 3
+      },
+      {
+        "heading": "2004/12-December/2004-12-30-Thursday",
+        "level": 3
+      },
+      {
+        "heading": "2004/12-December/2004-12-31-Friday",
+        "level": 3
+      },
+      {
+        "heading": "2005/01-January/2005-01-01-Saturday",
+        "level": 3
+      },
+      {
+        "heading": "2005/01-January/2005-01-02-Sunday",
+        "level": 3
+      },
+      {
+        "heading": "Outcomes",
+        "level": 2
       }
     ]
+  },
+  {
+    "fileName": "2023-01-26-Thursday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-26-Thursday.md"
+  },
+  {
+    "fileName": "2023-01-25-Wednesday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-25-Wednesday.md"
+  },
+  {
+    "fileName": "2023-01-24-Tuesday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-24-Tuesday.md"
+  },
+  {
+    "fileName": "Regolith",
+    "relativePath": "Regolith/Regolith.md"
   },
   {
     "fileName": "Readme",
@@ -126,6 +193,10 @@
     "relativePath": "Obsidian/Obsidian Useage.md"
   },
   {
+    "fileName": "Daily note template",
+    "relativePath": "Obsidian/Daily note template.md"
+  },
+  {
     "fileName": "Calendar",
     "relativePath": "Obsidian/Calendar.md",
     "backlinks": [
@@ -164,14 +235,7 @@
   },
   {
     "fileName": "Segah Reviews",
-    "relativePath": "Literature Review/Segah Reviews.md",
-    "backlinks": [
-      {
-        "fileName": "2023-01-30",
-        "link": "Segah Reviews",
-        "relativePath": "Daily Notes/2023-01-30.md"
-      }
-    ]
+    "relativePath": "Literature Review/Segah Reviews.md"
   },
   {
     "fileName": "Petra",
@@ -185,13 +249,6 @@
         "heading": "Final Submission Page limit (including references) :",
         "level": 5
       }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2023-01-31",
-        "link": "Petra",
-        "relativePath": "Daily Notes/2023-01-31.md"
-      }
     ]
   },
   {
@@ -199,50 +256,107 @@
     "relativePath": "Literature Review/ICost.md"
   },
   {
-    "fileName": "2023-01-31",
-    "relativePath": "Daily Notes/2023-01-31.md",
-    "links": [
+    "fileName": "Weekly Note Template",
+    "relativePath": "Bins/Templates/Weekly Note Template.md",
+    "frontmatter": {
+      "week": "<% tp.date.now(\"YYYY-[W]W\", 0, tp.file.title, \"YYYY-[W]W\") %>",
+      "year": "<% tp.date.now(\"YYYY\", 0, tp.file.title, \"YYYY-[W]W\") %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 138
+        }
+      }
+    },
+    "headings": [
       {
-        "link": "Petra",
-        "relativePath": "Literature Review/Petra.md"
+        "heading": "Notes",
+        "level": 2
       },
       {
-        "link": "ICICostost"
+        "heading": "History",
+        "level": 2
+      },
+      {
+        "heading": "Outcomes",
+        "level": 2
       }
     ]
   },
   {
-    "fileName": "2023-01-27",
-    "relativePath": "Daily Notes/2023-01-27.md"
-  },
-  {
-    "fileName": "2023-02-01",
-    "relativePath": "Daily Notes/2023-02-01.md"
-  },
-  {
-    "fileName": "2023-01-30",
-    "relativePath": "Daily Notes/2023-01-30.md",
-    "links": [
+    "fileName": "Daily Note Template",
+    "relativePath": "Bins/Templates/Daily Note Template.md",
+    "frontmatter": {
+      "created": "<% tp.file.creation_date() %>",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 46
+        }
+      }
+    },
+    "headings": [
       {
-        "link": "Regolith",
-        "relativePath": "Regolith/Regolith.md"
+        "heading": "<% moment(tp.file.title,'YYYY-MM-DD').format(\"dddd, MMMM DD, YYYY\") %>",
+        "level": 1
       },
       {
-        "link": "Segah Reviews",
-        "relativePath": "Literature Review/Segah Reviews.md"
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('YYYY-MM-DD-dddd') %>",
+        "displayText": "Yesterday"
+      },
+      {
+        "link": "<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>",
+        "displayText": "Tomorrow"
       }
     ]
-  },
-  {
-    "fileName": "2023-01-26",
-    "relativePath": "Daily Notes/2023-01-26.md"
-  },
-  {
-    "fileName": "2023-01-25",
-    "relativePath": "Daily Notes/2023-01-25.md"
-  },
-  {
-    "fileName": "2023-01-24",
-    "relativePath": "Daily Notes/2023-01-24.md"
   }
 ]
