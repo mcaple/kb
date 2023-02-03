@@ -92,40 +92,12 @@
             }
           },
           {
-            "id": "f0a0a61f33904138",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f3cf411bab9d80b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "415de3c429ba804d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Publish.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b814e1caf7383c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian setup.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,21 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Bins/Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3458dcd480e9db99",
+            "id": "6860d9175fa1b2a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -298,17 +275,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f36dace63e5f9fd",
+  "active": "415de3c429ba804d",
   "lastOpenFiles": [
-    "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
+    "paperdigest.org.md",
     "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
-    "2023-02-02-Thursday.md",
+    "Obsidian/Publish.md",
     "Obsidian/Obsidian setup.md",
     "Bins/Templates/Daily Note Template.md",
-    "Timestamps/Weekly/2023-W05.md",
-    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md",
-    "Bins/Templates/Weekly Note Template.md",
-    "Timestamps/Weekly/2023-W06.md",
-    "Timestamps/Weekly/2023/07.md"
+    "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
+    "Obsidian/Daily note template.md",
+    "Bins/Scratchpad Templates/Achievements Template.md",
+    "Bins/Scratchpad Templates/Blog Template.md",
+    "README.md"
   ]
 }
