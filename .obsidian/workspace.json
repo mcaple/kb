@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian setup.md",
+                "file": "Bins/Templates/Weekly Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,18 +120,6 @@
             }
           },
           {
-            "id": "6e963524e08fb2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2023/02-February/2023-02-02-Thursday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "415de3c429ba804d",
             "type": "leaf",
             "state": {
@@ -175,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/2023/02-February/2023-02-02-Thursday.md",
+                "file": "Bins/Templates/Weekly Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamps/2023/02-February/2023-02-02-Thursday.md",
+                "file": "Bins/Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/2023/02-February/2023-02-02-Thursday.md"
+                "file": "Bins/Templates/Weekly Note Template.md"
               }
             }
           },
@@ -323,17 +310,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e963524e08fb2fa",
+  "active": "444fd553098b049d",
   "lastOpenFiles": [
-    "Bins/Templates/Daily Note Template.md",
-    "Bins/Templates/Weekly Note Template.md",
     "Timestamps/Weekly/2023/05.md",
+    "Bins/Templates/Weekly Note Template.md",
+    "Obsidian/Daily note template.md",
+    "Obsidian/Publish.md",
+    "Timestamps/Weekly/2023/06.md",
+    "Timestamps/2023/02-February/2023-02-02-Thursday.md",
+    "Bins/Templates/Daily Note Template.md",
     "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
     "Timestamps/Weekly/2023/5.md",
-    "Timestamps/2023/02-February/2023-02-02-Thursday.md",
-    "Obsidian/Daily note template.md",
-    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md",
-    "Timestamps/2023/02-February/2023-02-03-Friday.md",
-    "Timestamps/Daily/2023/01-January/2023-01-26-Thursday.md"
+    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md"
   ]
 }
