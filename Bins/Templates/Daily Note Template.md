@@ -4,12 +4,6 @@ created: <% tp.file.creation_date() %>
 tags:: [[+Daily Notes]]
 
 ---
-date: <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
-week: <% tp.date.now("YYYY-[W]W", 0, tp.file.title, "YYYY-MM-DD") %>
-year: <% tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
-
-AFTER
-
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 	
@@ -32,6 +26,10 @@ AFTER
 ---
 # 📝 Notes
 - <% tp.file.cursor() %>
+
+---
+# Outcomes
+- 
 
 ---
 ### Notes created today

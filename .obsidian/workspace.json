@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "444fd553098b049d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bins/Templates/Weekly Note Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f36dace63e5f9fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian setup.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bins/Templates/Weekly Note Template.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bins/Templates/Weekly Note Template.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bins/Templates/Weekly Note Template.md"
+                "file": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md"
               }
             }
           },
@@ -310,17 +298,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "444fd553098b049d",
+  "active": "1f36dace63e5f9fd",
   "lastOpenFiles": [
-    "Timestamps/Weekly/2023/05.md",
-    "Bins/Templates/Weekly Note Template.md",
-    "Obsidian/Daily note template.md",
-    "Obsidian/Publish.md",
-    "Timestamps/Weekly/2023/06.md",
-    "Timestamps/2023/02-February/2023-02-02-Thursday.md",
-    "Bins/Templates/Daily Note Template.md",
     "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
-    "Timestamps/Weekly/2023/5.md",
-    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md"
+    "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
+    "2023-02-02-Thursday.md",
+    "Obsidian/Obsidian setup.md",
+    "Bins/Templates/Daily Note Template.md",
+    "Timestamps/Weekly/2023-W05.md",
+    "Timestamps/Daily/2023/02-February/2023-02-01-Wednesday.md",
+    "Bins/Templates/Weekly Note Template.md",
+    "Timestamps/Weekly/2023-W06.md",
+    "Timestamps/Weekly/2023/07.md"
   ]
 }
