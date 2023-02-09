@@ -33,6 +33,10 @@
       "relativePath": "Timestamps"
     },
     {
+      "name": "Scratchpad Templates",
+      "relativePath": "Bins/Scratchpad Templates"
+    },
+    {
       "name": "Templates",
       "relativePath": "Bins/Templates"
     },
@@ -47,10 +51,6 @@
     {
       "name": "2023",
       "relativePath": "Timestamps/Daily/2023"
-    },
-    {
-      "name": "2023",
-      "relativePath": "Timestamps/Weekly/2023"
     },
     {
       "name": "01-January",
