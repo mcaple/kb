@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md"
+                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md"
               }
             }
           },
@@ -277,15 +277,15 @@
   },
   "active": "415de3c429ba804d",
   "lastOpenFiles": [
+    "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
+    "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
+    "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+    "Timestamps/2023/02-February/2023-02-09-Thursday.md",
     "Literature Review/Segah Reviews.md",
     "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
     "paperdigest.org.md",
     "Obsidian/Publish.md",
     "Obsidian/Obsidian setup.md",
-    "Bins/Templates/Daily Note Template.md",
-    "Timestamps/Daily/2023/02-February/2023-02-02-Thursday.md",
-    "Obsidian/Daily note template.md",
-    "Bins/Scratchpad Templates/Achievements Template.md",
-    "Bins/Scratchpad Templates/Blog Template.md"
+    "Bins/Templates/Daily Note Template.md"
   ]
 }
