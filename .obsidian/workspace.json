@@ -109,7 +109,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera/F-Stop.md",
+                "file": "Camera/Aperture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d03b55eabe5184a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Exposure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b63026652cea3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Exposure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72f26e76330cf96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Aperture.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/F-Stop.md",
+                "file": "Camera/Aperture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/F-Stop.md",
+                "file": "Camera/Aperture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/F-Stop.md"
+                "file": "Camera/Aperture.md"
               }
             }
           },
@@ -299,17 +335,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "72cf4b696e14732a",
+  "active": "72e09d039f38c003",
   "lastOpenFiles": [
+    "Camera/ISO.md",
+    "Camera/Exposure.md",
+    "Camera/Tone.md",
+    "Camera/Aperture.md",
     "Camera/Shutter.md",
-    "Camera/F-Stop.md",
     "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
     "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
     "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
     "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
-    "Timestamps/2023/02-February/2023-02-09-Thursday.md",
-    "Literature Review/Segah Reviews.md",
-    "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
-    "paperdigest.org.md"
+    "Timestamps/2023/02-February/2023-02-09-Thursday.md"
   ]
 }

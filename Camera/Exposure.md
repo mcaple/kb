@@ -1,0 +1,1 @@
+We want enough light to expose the shadow sections we want to see in a picture and enough detail the highlights.
