@@ -164,6 +164,18 @@
             }
           },
           {
+            "id": "62bb09fbc5da2a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Taking a photo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e26e28b32b8b13af",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Modes.md",
+                "file": "Camera/Taking a photo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Modes.md",
+                "file": "Camera/Taking a photo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Modes.md"
+                "file": "Camera/Taking a photo.md"
               }
             }
           },
@@ -347,8 +359,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "560f61ee351ce93f",
+  "active": "72e09d039f38c003",
   "lastOpenFiles": [
+    "Camera/Modes.md",
     "Camera/Aperture.md",
     "Camera/ISO.md",
     "Camera/Exposure.md",
@@ -357,7 +370,6 @@
     "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
     "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
     "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
-    "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
-    "Timestamps/2023/02-February/2023-02-09-Thursday.md"
+    "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md"
   ]
 }
