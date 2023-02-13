@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "72cf4b696e14732a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/F-Stop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26e28b32b8b13af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Shutter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c5cd94eb1c04826a",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+                "file": "Camera/F-Stop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+                "file": "Camera/F-Stop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md"
+                "file": "Camera/F-Stop.md"
               }
             }
           },
@@ -275,17 +299,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "415de3c429ba804d",
+  "active": "72cf4b696e14732a",
   "lastOpenFiles": [
+    "Camera/Shutter.md",
+    "Camera/F-Stop.md",
+    "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
     "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
     "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
     "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
     "Timestamps/2023/02-February/2023-02-09-Thursday.md",
     "Literature Review/Segah Reviews.md",
     "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
-    "paperdigest.org.md",
-    "Obsidian/Publish.md",
-    "Obsidian/Obsidian setup.md",
-    "Bins/Templates/Daily Note Template.md"
+    "paperdigest.org.md"
   ]
 }
