@@ -8,3 +8,4 @@ In film days as you increased ISO the pictures became grainier.
 
 ### Keep your ISO as low as possible
 
+Changing ISO from 100 to 200 is equivalent to 1 stop of shutter speed. 
