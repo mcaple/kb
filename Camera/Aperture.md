@@ -15,3 +15,18 @@ Typical F-stops are:
 - f/22
 
 The f-stop is a ratio between the lens length to size of aperture and hence why it is not a clean increment but rest assured there is an opening twice/half as big as the previous/successive number. The hole halves as we go down the list and doubles as we go up.
+
+When your camera is able to use a custom button we may have the following exposure equivalent options:
+
+| Shutter Speed | Aperture Size |
+| ------------- | -------- |
+| 60            | f/2.5    |
+| 45            | f/2.8    |
+| 125           | f/1.8    |
+| 180           | f/1.4         |
+
+If we change the aperture from 2.8 to 2.5 that is a third of a stop (.3). Also going from 1/60 to 1/45 of a second is also a third in terms of shutter speed.
+
+We cannot go higher than f/1.4 because that is as high as the particular lens will go.
+
+

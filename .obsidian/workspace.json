@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neo4j/Neo4j-attributes.md",
+                "file": "Camera/Aperture.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neo4j/Neo4j-attributes.md",
+                "file": "Camera/Aperture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neo4j/Neo4j-attributes.md",
+                "file": "Camera/Aperture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neo4j/Neo4j-attributes.md"
+                "file": "Camera/Aperture.md"
               }
             }
           },
@@ -361,9 +361,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "de40ce05115a3516",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -383,8 +391,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d70ecea372557cb",
+  "active": "de40ce05115a3516",
   "lastOpenFiles": [
+    "Neo4j/Neo4j-attributes.md",
     "Camera/Modes.md",
     "Camera/Untitled.md",
     "Camera/ISO.md",
@@ -393,7 +402,6 @@
     "Camera/Exposure.md",
     "Camera/Tone.md",
     "Camera/Shutter.md",
-    "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
-    "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
+    "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md"
   ]
 }
