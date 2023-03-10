@@ -94,6 +94,291 @@
     ]
   },
   {
+    "fileName": "2023-02-07-Tuesday",
+    "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
+    "frontmatter": {
+      "created": "2023-02-09 13:02",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Tuesday, February 07, 2023",
+        "level": 1
+      },
+      {
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Today I Completed",
+        "level": 2
+      },
+      {
+        "heading": "Today I Made Progress on",
+        "level": 2
+      },
+      {
+        "heading": "Today I Started",
+        "level": 2
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2023-02-06-Monday",
+        "displayText": "Yesterday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md"
+      },
+      {
+        "link": "2023-02-08-Wednesday",
+        "displayText": "Tomorrow",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-02-08-Wednesday",
+        "link": "2023-02-07-Tuesday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
+        "displayText": "Yesterday"
+      },
+      {
+        "fileName": "2023-02-06-Monday",
+        "link": "2023-02-07-Tuesday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+        "displayText": "Tomorrow"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-02-09-Thursday",
+    "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+    "frontmatter": {
+      "created": "2023-02-09 13:12",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Thursday, February 09, 2023",
+        "level": 1
+      },
+      {
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "To do",
+        "level": 3
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2023-02-08-Wednesday",
+        "displayText": "Yesterday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
+      },
+      {
+        "link": "2023-02-10-Friday",
+        "displayText": "Tomorrow"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-02-08-Wednesday",
+        "link": "2023-02-09-Thursday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
+        "displayText": "Tomorrow"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-02-08-Wednesday",
+    "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
+    "frontmatter": {
+      "created": "2023-02-09 12:59",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Wednesday, February 08, 2023",
+        "level": 1
+      },
+      {
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2023-02-07-Tuesday",
+        "displayText": "Yesterday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md"
+      },
+      {
+        "link": "2023-02-09-Thursday",
+        "displayText": "Tomorrow",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-02-07-Tuesday",
+        "link": "2023-02-08-Wednesday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
+        "displayText": "Tomorrow"
+      },
+      {
+        "fileName": "2023-02-09-Thursday",
+        "link": "2023-02-08-Wednesday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+        "displayText": "Yesterday"
+      },
+      {
+        "fileName": "2023-02-09-Thursday",
+        "link": "2023-02-08-Wednesday",
+        "relativePath": "Timestamps/2023/02-February/2023-02-09-Thursday.md",
+        "displayText": "Yesterday"
+      }
+    ]
+  },
+  {
     "fileName": "2023-02-06-Monday",
     "relativePath": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
     "frontmatter": {
@@ -175,7 +460,16 @@
       },
       {
         "link": "2023-02-07-Tuesday",
-        "displayText": "Tomorrow"
+        "displayText": "Tomorrow",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-02-07-Tuesday",
+        "link": "2023-02-06-Monday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
+        "displayText": "Yesterday"
       }
     ]
   },
@@ -453,6 +747,81 @@
     "relativePath": "Timestamps/Daily/2023/01-January/2023-01-24-Tuesday.md"
   },
   {
+    "fileName": "2023-02-09-Thursday",
+    "relativePath": "Timestamps/2023/02-February/2023-02-09-Thursday.md",
+    "frontmatter": {
+      "created": "2023-02-09 12:58",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Thursday, February 09, 2023",
+        "level": 1
+      },
+      {
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2023-02-08-Wednesday",
+        "displayText": "Yesterday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
+      },
+      {
+        "link": "2023-02-10-Friday",
+        "displayText": "Tomorrow"
+      }
+    ]
+  },
+  {
     "fileName": "Regolith",
     "relativePath": "Regolith/Regolith.md",
     "backlinks": [
@@ -460,6 +829,66 @@
         "fileName": "2023-01-30-Monday",
         "link": "Regolith",
         "relativePath": "Timestamps/Daily/2023/01-January/2023-01-30-Monday.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Untitled",
+    "relativePath": "Camera/Untitled.md"
+  },
+  {
+    "fileName": "Tone",
+    "relativePath": "Camera/Tone.md"
+  },
+  {
+    "fileName": "Taking a photo",
+    "relativePath": "Camera/Taking a photo.md",
+    "headings": [
+      {
+        "heading": "The exposure triangle and reciprocity",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Shutter",
+    "relativePath": "Camera/Shutter.md"
+  },
+  {
+    "fileName": "Modes",
+    "relativePath": "Camera/Modes.md",
+    "headings": [
+      {
+        "heading": "Auto",
+        "level": 3
+      },
+      {
+        "heading": "Program",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "ISO",
+    "relativePath": "Camera/ISO.md",
+    "headings": [
+      {
+        "heading": "Keep your ISO as low as possible",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Exposure",
+    "relativePath": "Camera/Exposure.md"
+  },
+  {
+    "fileName": "Aperture",
+    "relativePath": "Camera/Aperture.md",
+    "headings": [
+      {
+        "heading": "F-stop",
+        "level": 3
       }
     ]
   },
@@ -618,6 +1047,10 @@
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "Neo4j-attributes",
+    "relativePath": "Neo4j/Neo4j-attributes.md"
   },
   {
     "fileName": "Segah Reviews",

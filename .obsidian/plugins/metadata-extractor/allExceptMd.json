@@ -17,12 +17,20 @@
       "relativePath": "Literature Review"
     },
     {
+      "name": "Neo4j",
+      "relativePath": "Neo4j"
+    },
+    {
       "name": "Nginx",
       "relativePath": "Nginx"
     },
     {
       "name": "Obsidian",
       "relativePath": "Obsidian"
+    },
+    {
+      "name": "Camera",
+      "relativePath": "Camera"
     },
     {
       "name": "Regolith",
@@ -41,12 +49,20 @@
       "relativePath": "Bins/Templates"
     },
     {
+      "name": "2023",
+      "relativePath": "Timestamps/2023"
+    },
+    {
       "name": "Daily",
       "relativePath": "Timestamps/Daily"
     },
     {
       "name": "Weekly",
       "relativePath": "Timestamps/Weekly"
+    },
+    {
+      "name": "02-February",
+      "relativePath": "Timestamps/2023/02-February"
     },
     {
       "name": "2023",
