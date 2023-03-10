@@ -246,9 +246,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce52dc0f0a3fe274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S3 - Colour/S3-Week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d508d7614322ffaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S3 - Colour/S3-Week2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -314,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/ISO.md",
+                "file": "Cert IV/S3 - Colour/S3-Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/ISO.md",
+                "file": "Cert IV/S3 - Colour/S3-Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/ISO.md"
+                "file": "Cert IV/S3 - Colour/S3-Week2.md"
               }
             }
           },
@@ -403,14 +427,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b348be100a65c82",
+  "active": "d508d7614322ffaf",
   "lastOpenFiles": [
+    "Cert IV/S3 - Colour/S3-Week1.md",
+    "Cert IV/S3 - Colour/S3-Week2.md",
+    "Camera/ISO.md",
+    "Cert IV/S4 - Lighting",
+    "Cert IV/S2 - Capture",
+    "Cert IV/S1 - Industry",
+    "Cert IV/S3 - Colour",
+    "Cert IV",
     "Timestamps/2023/03-March/2023-03-10-Friday.md",
     "Timestamps/2023/03-March",
     "Neo4j/Neo4j-attributes.md",
     "Camera/Modes.md",
     "Camera/Untitled.md",
-    "Camera/ISO.md",
     "Camera/Taking a photo.md",
     "Camera/Aperture.md",
     "Camera/Exposure.md",
