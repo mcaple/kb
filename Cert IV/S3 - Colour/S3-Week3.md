@@ -69,4 +69,14 @@ Tertiary colours of the RGB and CMYK colour wheels are created by adding one Pri
 
 ![[../../Attachments/Pasted image 20230311165341.png]]
 
+### Colour schemes (already covered above, mostly)
 
+- Monochromatic colours: variations in lightness and saturation of a single colour/hue. -
+-  Analogous colours: three colours which are side by side on the colour wheel. 
+- Complementary colours: any two colours which are directly opposite each other. 
+- Triad colours: Three hues equal distance from each other. 
+- Split Complementary or compound colours: two close hues opposite to another hue. 
+- Tetrad colours: a combination of two sets of complementary colours found by rotating around the colour wheel sixty degrees from each other. 
+- Cool/Warm colours: referring to temperature, warm: reds, yellows, oranges and cool greens, blues, purples. Team a warm with a cool colour for good contrast. 
+- Colour discord: pairing two different colours that conflict each other. 
+- Tints and shades: rather than using the full-strength hue of colours, lighter or darker versions can be created by adding white (tints) and adding black or grey (shades).
