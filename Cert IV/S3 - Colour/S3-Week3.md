@@ -32,3 +32,20 @@ There are a number of do's and don'ts in colour schemes. If two colours clash wi
 Readability is vitally important, colours should be legible and easy on the eyes. Sometimes this means don't use too much colour. Neutral colours like white, black and gray can help balance design.
 
 Bright colours tend to have a fun or modern vibe, desaturated colours appear more business like.
+
+A colour wheel is an illustrative organization of colours around a circle, showing the relationships between primary colours, secondary colours, and tertiary colours.
+
+![[../../Attachments/Pasted image 20230311161938.png]]
+
+The 3 colour wheels are:
+
+- The Traditional Colour Wheel – used when mixing paint![[../../Attachments/Pasted image 20230311162345.png]]
+- The RGB Colour Wheel – used when creating colour from light. Additive model, energy based model. ![[../../Attachments/Pasted image 20230311162536.png]]
+This additive model would lead to
+
+![[../../Attachments/Pasted image 20230311163641.png]]
+
+- The CMYK Colour Wheel - used when creating colour for printing and ink. Rather than starting in a black/no light world we are starting on a pure white paper world and so we need to subtract.![[../../Attachments/Pasted image 20230311162617.png]]
+This subtractive idea would lead to
+![[../../Attachments/Pasted image 20230311163541.png]]
+
