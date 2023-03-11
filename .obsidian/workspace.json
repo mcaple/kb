@@ -270,9 +270,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc57bd6d0f2dfb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week1.md",
+                "file": "Cert IV/S3 - Colour/S3-Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week1.md",
+                "file": "Cert IV/S3 - Colour/S3-Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week1.md"
+                "file": "Cert IV/S3 - Colour/S3-Week3.md"
               }
             }
           },
@@ -427,10 +439,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d508d7614322ffaf",
+  "active": "cc57bd6d0f2dfb2d",
   "lastOpenFiles": [
-    "Cert IV/S3 - Colour/S3-Week2.md",
     "Cert IV/S3 - Colour/S3-Week1.md",
+    "Cert IV/S3 - Colour/S3-Week2.md",
+    "Cert IV/S3 - Colour/S3-Week3.md",
     "Camera/ISO.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
