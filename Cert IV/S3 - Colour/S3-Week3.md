@@ -80,3 +80,10 @@ Tertiary colours of the RGB and CMYK colour wheels are created by adding one Pri
 - Cool/Warm colours: referring to temperature, warm: reds, yellows, oranges and cool greens, blues, purples. Team a warm with a cool colour for good contrast. 
 - Colour discord: pairing two different colours that conflict each other. 
 - Tints and shades: rather than using the full-strength hue of colours, lighter or darker versions can be created by adding white (tints) and adding black or grey (shades).
+
+
+### Shade, tint and tone
+
+- Shade - created by adding black to a base hue, darkening the colour. This creates a deeper, richer colour. Shades can be quite dramatic and can be overpowering. 
+- Tint - created by adding white to a base hue, lightening the colour. This can make a colour less intense, and is useful when balancing more vivid colour combinations. 
+- Tone - created by combining black and white—or grey—with a base hue. Like tints, tones are subtler versions of the original colour. Tones are less likely to look pastel, and can reveal complexities not apparent in the base colour.
