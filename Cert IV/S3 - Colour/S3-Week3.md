@@ -45,7 +45,28 @@ This additive model would lead to
 
 ![[../../Attachments/Pasted image 20230311163641.png]]
 
-- The CMYK Colour Wheel - used when creating colour for printing and ink. Rather than starting in a black/no light world we are starting on a pure white paper world and so we need to subtract.![[../../Attachments/Pasted image 20230311162617.png]]
+- The CMYK Colour Wheel (Cyan, Yellow, Magenta, Key (black)) - pigment  based model, used when creating colour for printing and ink. Rather than starting in a black/no light world we are starting on a pure white paper world and so we need to subtract.![[../../Attachments/Pasted image 20230311162617.png]]
 This subtractive idea would lead to
 ![[../../Attachments/Pasted image 20230311163541.png]]
+
+
+Primary colours are the main colours in a given colour system and cannot be produced by mixing other colours in the system.
+
+Secondary colours are produced by mixing two primary colours. 
+![[../../Attachments/Pasted image 20230311164935.png]]
+![[../../Attachments/Pasted image 20230311164959.png]]
+
+![[../../Attachments/Pasted image 20230311165037.png]]
+
+#### Note that mixing the primary colours of CMY produces the primary colours of light (RGB).
+
+
+Tertiary colours are made by mixing one Primary and one Secondary colour the colour wheel.
+
+![[../../Attachments/Pasted image 20230311165243.png]]
+
+Tertiary colours of the RGB and CMYK colour wheels are created by adding one Primary and one Secondary colour together. Remember that the RGB and CMYK colour wheels are inversions of each other!
+
+![[../../Attachments/Pasted image 20230311165341.png]]
+
 
