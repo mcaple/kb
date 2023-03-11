@@ -25,11 +25,11 @@ Elements: fundamental components/ characteristics
 	- Colour (Colour is what we perceive when light waves strike an object and reflect back into the optic nerve in the human eye). Colour has the attributes: Hue – a pure or true colour,  Value (or tone) – brightness of hue, Saturation – intensity of hue.
 
 Principles: rules or guidelines that help us bring order to our design
-	- Unity
+	- Unity *"the primary pricnciple of design"*
 	- Dominance
 	- Contrast
-	- Rhythm
-	- Balance
+	- Rhythm regular repeating occurence of elements in a scene. Can be regular or irregular. Can be random, regular, alternating, flowing and progressive. Rhythm creates interest, movement, harmony/unity. 
+	- Balance  the relationship between opposing elements. Gives a sense of harmony. Relationship between lines and points and objects, where forces equally opposed find harmony and symmetry. If balanced the image has equlibrium. A lack of balance introduces visual tension. The two forms of balance are *formal* (centered arrangement, subject appears in the middle, can appear static. Includes properties such as dignity, formality, discipline, severity, regulation) and *informal* (opposite of formal, opposing objects appear unequal, balance of one or more units by dissimilar or contrasting units, on opposite sides of an axis. Balance achieved through mutual opposition such as a large object with a small one. Unbalanced images can create tension.)
 
 Elements and principles form the plans of **visual order**
 
