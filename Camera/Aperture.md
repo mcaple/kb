@@ -67,3 +67,5 @@ So the question before taking a photograph should be
 - Multiple things, big f number
 
 Generally around 2/3rds of focus is behind the subject and 1/3 in front. This is very important for instance if you are taking a landscape photo. Most people focus on the distant mountains but that means 2/3rds behind the mountain is in focus and your stuff close is out of focus, like the rocks and pebbles near you. Instead focus around 1/3rd ahead of you. 
+
+Large DOF can make any light source turn into a "light burst". To get the effect for example, half press when sun behind a cloud then move slightly until sun is bleeding over over cloud and take photo. 
