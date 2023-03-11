@@ -43,4 +43,27 @@ f/22 and beyond huge depth of field, laser beam of light so image really sharp. 
 
 Lots of cameras have a depth of field preview button to give an idea of how the image would look.
 
+**The following is a bit confusing**
 
+Potraits generally want the softest, bluriest background so you want very little DOF, large aperture hole.
+Landscape you want big DOF, small aperture hole
+
+**This is an easier way of looking at it** ([here](https://www.youtube.com/watch?app=desktop&v=EdxKl5np9KE))
+
+Just stick with f numbers
+
+Small f number is a small DOF
+Larg f number is a large DOF
+
+You could also imagine a whole lot of "f's" going off from the camera into the distance so the less "f's" the less is in focus.
+
+*Basically the more things you want in focus the more "f's" you want.*
+
+By using a small f-stop you can make your subject sharp so you could photograph through a wire fence at a zoo onto the animal or a lions head that was surrounded by grass.
+
+So the question before taking a photograph should be
+- Where do we want the viewers eye to go, everywhere, on the thing or somewhere in between?
+- If one subject then small f number for small DOF
+- Multiple things, big f number
+
+Generally around 2/3rds of focus is behind the subject and 1/3 in front. This is very important for instance if you are taking a landscape photo. Most people focus on the distant mountains but that means 2/3rds behind the mountain is in focus and your stuff close is out of focus, like the rocks and pebbles near you. Instead focus around 1/3rd ahead of you. 
