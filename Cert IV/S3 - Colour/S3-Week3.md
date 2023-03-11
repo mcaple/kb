@@ -6,3 +6,12 @@ White light can be split into red, orange, yellow, green, blue, indigo, violet a
 
 Colour is a brain interpretation of various wavelengths (colours(hue) of light).
 There are 7 spectral hues.
+
+Properties of colour:
+ - Hue (spectral purity, colour)
+ - Saturation (colourfulness, intensity of hue or saturation point)
+ - Brightness luminance level of sources and objects (CIE)
+
+Saturation increase as brightness increases.
+
+The Munsell colour order is based on a 3D model of hue (colour, such as red, orange etc), value (lightness or darkness of colour), chroma (saturation of colour)  
