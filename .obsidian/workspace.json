@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Aperture.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Aperture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Aperture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md"
+                "file": "Camera/Aperture.md"
               }
             }
           },
@@ -429,9 +429,9 @@
   },
   "active": "d508d7614322ffaf",
   "lastOpenFiles": [
+    "Cert IV/S3 - Colour/S3-Week3.md",
     "Cert IV/S3 - Colour/S3-Week2.md",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
-    "Cert IV/S3 - Colour/S3-Week3.md",
     "Attachments/Pasted image 20230311165341.png",
     "Attachments/Pasted image 20230311165243.png",
     "Attachments/Pasted image 20230311165037.png",

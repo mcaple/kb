@@ -6,6 +6,9 @@ Refers to the size of the hole on your aperture. The higher the number the small
 
 Typical F-stops are:
 
+- f/1
+- f/1.4
+- f/2
 - f2/.8
 - f/4
 - f/5.6
@@ -28,5 +31,16 @@ When your camera is able to use a custom button we may have the following exposu
 If we change the aperture from 2.8 to 2.5 that is a third of a stop (.3). Also going from 1/60 to 1/45 of a second is also a third in terms of shutter speed.
 
 We cannot go higher than f/1.4 because that is as high as the particular lens will go.
+
+The following changes for the lens you are using, distance from the subject etc
+
+f/1 gives a razor thin depth of field, you are focusing in on just the eyes for example. This idea is called boka (Japanese)
+f/1.4, f/2 draw attention to the face for example or a flower
+f/4, 5/5.6 tend to be somewhere in the middle so not used frequently, not giving that depth of separation nor that extreme focus. You can isolate the subject but gives the viewer an idea of what's going on in the background.
+f/8 group photographs for example to include everyone
+f/11, f/16 portrait photography or image with a lot of detail. Image becomes sharp, landscape, street photography. Almost 2D feel to the photograph
+f/22 and beyond huge depth of field, laser beam of light so image really sharp. Allows the eye to wander as everything in focus. Epic landscapes, internal churches etc
+
+Lots of cameras have a depth of field preview button to give an idea of how the image would look.
 
 
