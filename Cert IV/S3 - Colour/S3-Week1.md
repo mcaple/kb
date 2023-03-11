@@ -25,9 +25,9 @@ Elements: fundamental components/ characteristics
 	- Colour (Colour is what we perceive when light waves strike an object and reflect back into the optic nerve in the human eye). Colour has the attributes: Hue – a pure or true colour,  Value (or tone) – brightness of hue, Saturation – intensity of hue.
 
 Principles: rules or guidelines that help us bring order to our design
-	- Unity *"the primary pricnciple of design"*
-	- Dominance
-	- Contrast
+	- Unity *"the primary pricnciple of design"*. Often referred to as harmony. The principle that unifies all other principles within an image. Where elements combine to convey a common idea. Gives an image cohesiveness despite possible component scale, contrast or style differences. Allows each individual element to coexist with one another to form an aesthetically pleasing design. 
+	- Dominance relates to *what* our centre of interest is, *how* we place our centre of interest. An image should have only **one** principal idea, every else should be subordinate. The subordinates should work to contribute to and focus upon centre of interest. The subject may have two or more features that need to be stresses with equal emphasis. 
+	- Contrast stresses the difference between elements i.e line, shape, form, volume, texture, tone, colour. Two contrasting elements can reinforce each other. Contrast can also apply to mood, concept, content or subject. Contrast can create interest through variety, highlight qualities of subject, direct attention to centre of interest.
 	- Rhythm regular repeating occurence of elements in a scene. Can be regular or irregular. Can be random, regular, alternating, flowing and progressive. Rhythm creates interest, movement, harmony/unity. 
 	- Balance  the relationship between opposing elements. Gives a sense of harmony. Relationship between lines and points and objects, where forces equally opposed find harmony and symmetry. If balanced the image has equlibrium. A lack of balance introduces visual tension. The two forms of balance are *formal* (centered arrangement, subject appears in the middle, can appear static. Includes properties such as dignity, formality, discipline, severity, regulation) and *informal* (opposite of formal, opposing objects appear unequal, balance of one or more units by dissimilar or contrasting units, on opposite sides of an axis. Balance achieved through mutual opposition such as a large object with a small one. Unbalanced images can create tension.)
 
