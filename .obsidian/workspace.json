@@ -270,9 +270,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "523f632f9cfdccfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S4 - Lighting/S4-Week1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Aperture.md",
+                "file": "Cert IV/S4 - Lighting/S4-Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Aperture.md",
+                "file": "Cert IV/S4 - Lighting/S4-Week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Aperture.md"
+                "file": "Cert IV/S4 - Lighting/S4-Week1.md"
               }
             }
           },
@@ -427,8 +439,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d508d7614322ffaf",
+  "active": "523f632f9cfdccfb",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230312105725.png",
+    "Attachments/Pasted image 20230312104850.png",
+    "Camera/Aperture.md",
+    "Cert IV/S4 - Lighting/S4-Week1.md",
     "Cert IV/S3 - Colour/S3-Week3.md",
     "Cert IV/S3 - Colour/S3-Week2.md",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
@@ -441,7 +457,6 @@
     "Attachments/Pasted image 20230311163541.png",
     "Attachments/Pasted image 20230311163437.png",
     "Attachments/Pasted image 20230311162617.png",
-    "Attachments/Pasted image 20230311162536.png",
     "Camera/ISO.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
@@ -454,7 +469,6 @@
     "Camera/Modes.md",
     "Camera/Untitled.md",
     "Camera/Taking a photo.md",
-    "Camera/Aperture.md",
     "Camera/Exposure.md",
     "Camera/Tone.md",
     "Camera/Shutter.md",
