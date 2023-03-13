@@ -17,3 +17,5 @@ After naming a collection, you can simply drag and drop your photos into that co
 - 6-9 - colour the image (same number again to take off colour)
 
 You can organise by location. This is contained in the metadata expandable panel. When you look at it you can type city, province etc
+
+There is a map module in Lightroom dedicated to location.
