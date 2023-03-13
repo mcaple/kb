@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Lightroom.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Lightroom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Lightroom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md"
+                "file": "Camera/Lightroom.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "4167c08edffb508f",
   "lastOpenFiles": [
+    "Cert IV/S4 - Lighting/S4-Week2.md",
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
     "Attachments/Pasted image 20230312115712.png",
@@ -211,7 +212,6 @@
     "Attachments/Pasted image 20230312115429.png",
     "Attachments/Pasted image 20230312115402.png",
     "Attachments/Pasted image 20230312115338.png",
-    "Attachments/Pasted image 20230312115317.png",
     "Cert IV/S4 - Lighting/S4-Week1.md",
     "Readme.md",
     "Obsidian/Useage.md",
@@ -225,7 +225,6 @@
     "Camera/Shutter.md",
     "Bins/Templates/Daily Note Template.md",
     "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
-    "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S3 - Colour/S3-Week3.md",
     "Cert IV/S3 - Colour/S3-Week2.md",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
@@ -237,7 +236,7 @@
     "Timestamps/2023/03-March/2023-03-10-Friday.md",
     "Timestamps/2023/03-March",
     "Neo4j/Neo4j-attributes.md",
-    "Camera/Untitled.md",
+    "Camera/Lightroom.md",
     "Camera/Taking a photo.md",
     "Camera/Tone.md"
   ]
