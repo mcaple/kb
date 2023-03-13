@@ -19,3 +19,5 @@ After naming a collection, you can simply drag and drop your photos into that co
 You can organise by location. This is contained in the metadata expandable panel. When you look at it you can type city, province etc
 
 There is a map module in Lightroom dedicated to location.
+
+To search your keywords, locations etc mentioned above, click on "Library" then "Text", type something and hit enter. For colours, flags etc click on "Attributes".
