@@ -11,3 +11,7 @@ Printers tend to range between 50 DPI and 300 DPI
 
 In photoshop, sometimes useful to pop into CMYK so you see what the printers will print.
 
+Monitor, think of bit depth
+
+LG monitor ($400, )
+
