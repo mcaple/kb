@@ -7,3 +7,7 @@ Brighter colours advance, darket colours recede
 
 Darker background makes the object look bigger, page 16
 
+Printers tend to range between 50 DPI and 300 DPI
+
+In photoshop, sometimes useful to pop into CMYK so you see what the printers will print.
+
