@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97a25cbcb6eb923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S4 - Lighting/S4-Week5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week5.md",
+                "file": "Cert IV/S4 - Lighting/S4-Week5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week5.md",
+                "file": "Cert IV/S4 - Lighting/S4-Week5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week5.md"
+                "file": "Cert IV/S4 - Lighting/S4-Week5.md"
               }
             }
           },
@@ -199,13 +211,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de40ce05115a3516",
+  "active": "97a25cbcb6eb923a",
   "lastOpenFiles": [
+    "Cert IV/S4 - Lighting/S4-Week2.md",
+    "Cert IV/S4 - Lighting/S4-Week5.md",
+    "Cert IV/S3 - Colour/S3-Week5.md",
     "Cert IV/S3 - Colour/S3-Week3.md",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
-    "Cert IV/S3 - Colour/S3-Week5.md",
     "Camera/Lightroom.md",
-    "Cert IV/S4 - Lighting/S4-Week2.md",
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
     "Attachments/Pasted image 20230312115712.png",
