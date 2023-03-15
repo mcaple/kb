@@ -30,3 +30,5 @@ tracting.
 
 Copyright use copyright.org
 
+
+5.1 Planning, don't talk about cameras etc. Maybe paper, textiles etc
