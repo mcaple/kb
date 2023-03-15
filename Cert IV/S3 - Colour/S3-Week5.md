@@ -22,3 +22,11 @@ CMY
 
 Mix cyan and yellow you get red, red and blue magenta.
 
+5. How has this colour defined your choice of use for photography. Certain mood.
+
+Coke
+Person wearing red and white spotted dress and she is holding 3 drinks and the company logo in top left corner. Nothing competing with the red colours in the photo. Not complementary, not dis
+tracting.
+
+Copyright use copyright.org
+
