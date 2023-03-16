@@ -18,13 +18,13 @@ The Munsell colour order is based on a 3D model of hue (colour, such as red, ora
 
 Colour schemes:
 - Monochromatic vary value and saturation only
-- Analagous uses colour next to each other on the colour wheel, such as reds and oranges or cooler colours like blues and greens.
-- Complementary are opposite each other on the wheel.
+- Analagous (just means sequential, typically between 3 and 5 colours) uses colour next to each other on the colour wheel, such as reds and oranges or cooler colours like blues and greens.
+- Complementary are opposite each other on the wheel. If you want that palette to express itself with as much visual diveristy as possible then complimentary is the go.
 
 ![[../../Attachments/Pasted image 20230311150237.png]]
 
-- Split Complementary uses colours on either side of the complement. Gives same level of contrast as complementary but more colours to work with.![[../../Attachments/Pasted image 20230311150602.png]]
-- Triadic colour scheme uses 3 colurs that are evenly spaced. Forming perfect triangle on the wheel. Tend to be striking, especially with primary or secondary colours.![[../../Attachments/Pasted image 20230311150842.png]]
+- Split Complementary uses colours on either side of the complement. Gives same level of contrast as complementary but more colours to work with. If we cose orange for example we would get blue-violet and blue-green and the orange would stand out nicely against the more muted shades of the complementary colours. ![[../../Attachments/Pasted image 20230311150602.png]]
+- Triadic colour scheme uses 3 colurs that are evenly spaced. Forming perfect triangle on the wheel. Tend to be striking, especially with primary or secondary colours. Strong potential for expressing feelings of energy and diveristy. ![[../../Attachments/Pasted image 20230311150842.png]]
 - Tetradic colur schemes form a pattren that is rectangular on the wheel, using two complementary colour scheme. Works best if you let one colour dominate and use the others as an accent. ![[../../Attachments/Pasted image 20230311151212.png]]
 
 There are a number of do's and don'ts in colour schemes. If two colours clash with each each other then you can tone them down. This can be done by choosing one colour and adjust it's lightness, darkness or saturation.
