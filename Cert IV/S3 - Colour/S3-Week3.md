@@ -9,8 +9,10 @@ There are 7 spectral hues.
 
 Properties of colour:
  - Hue (spectral purity, colour)
- - Saturation (colourfulness, intensity of hue or saturation point)
+ - Saturation (colourfulness, intensity of hue or saturation point). How much white we have added.
  - Brightness luminance level of sources and objects (CIE)
+
+Value is the amount of black added to our colour, probably the same as brightness.
 
 Saturation increase as brightness increases.
 
@@ -87,3 +89,19 @@ Tertiary colours of the RGB and CMYK colour wheels are created by adding one Pri
 - Shade - created by adding black to a base hue, darkening the colour. This creates a deeper, richer colour. Shades can be quite dramatic and can be overpowering. 
 - Tint - created by adding white to a base hue, lightening the colour. This can make a colour less intense, and is useful when balancing more vivid colour combinations. 
 - Tone - created by combining black and white—or grey—with a base hue. Like tints, tones are subtler versions of the original colour. Tones are less likely to look pastel, and can reveal complexities not apparent in the base colour.
+
+
+You can find a good video of adobe color [here](https://www.linkedin.com/learning/adobe-color-essential-training/setting-a-base-color-and-using-basic-color-harmonies?autoplay=true&u=57684225). The video shows that shades is very similar to the monochromatic harmony rule.
+
+If you switch the colour wheel mode to HSV you will see that for 
+
+- Monochromatic - the hue is the same for each colour but the saturation and value differs
+- Shades - the hue and saturation is the same but different value.
+- Triad splits 5 colour swatches into 3 separate groups. Each group will have the same hue. So we are effectively splitting into hue groups.
+- Square - this time the group is split into 4 hue groups
+- Complementary - tries to find exact opposite of base colour. Also keep the hues in the two groups.
+- Split complementary - like complementary but two colours either side of opposite colour. Again same hues.
+- Double split complementary -  like split complementary but adds the two colours either side of base colour also.
+- Compound - mix of complementary and analogous colours. Not sure on this one. See [here](https://www.linkedin.com/learning/adobe-color-essential-training/using-advanced-color-harmonies?autoSkip=true&autoplay=true&resume=false&u=57684225)
+
+**Tip: remember to move the colour wheel colours in a little bit to give a softer colour.**
