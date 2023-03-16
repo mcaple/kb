@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Tone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0a024d3263734b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Colour Wheel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Colour Wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md",
+                "file": "Camera/Colour Wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Week3.md"
+                "file": "Camera/Colour Wheel.md"
               }
             }
           },
@@ -211,14 +223,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97a25cbcb6eb923a",
+  "active": "f0a024d3263734b5",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230316120948.png",
+    "Attachments/Pasted image 20230316120914.png",
+    "Attachments/Pasted image 20230316120835.png",
+    "Camera/Tone.md",
+    "Camera/Colour Wheel.md",
+    "Cert IV/S3 - Colour/S3-Week3.md",
     "Attachments/Pasted image 20230316111846.png",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
     "Cert IV/S4 - Lighting/S4-Week5.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S3 - Colour/S3-Week5.md",
-    "Cert IV/S3 - Colour/S3-Week3.md",
     "Camera/Lightroom.md",
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
@@ -227,9 +244,6 @@
     "Attachments/Pasted image 20230312115612.png",
     "Attachments/Pasted image 20230312115530.png",
     "Attachments/Pasted image 20230312115507.png",
-    "Attachments/Pasted image 20230312115429.png",
-    "Attachments/Pasted image 20230312115402.png",
-    "Attachments/Pasted image 20230312115338.png",
     "Cert IV/S4 - Lighting/S4-Week1.md",
     "Readme.md",
     "Obsidian/Useage.md",
@@ -252,7 +266,6 @@
     "Timestamps/2023/03-March/2023-03-10-Friday.md",
     "Timestamps/2023/03-March",
     "Neo4j/Neo4j-attributes.md",
-    "Camera/Taking a photo.md",
-    "Camera/Tone.md"
+    "Camera/Taking a photo.md"
   ]
 }
