@@ -23,7 +23,7 @@ Colour schemes:
 
 ![[../../Attachments/Pasted image 20230311150237.png]]
 
-- Split Complementary uses colours on either side of the complement. Gives same level of contrast as complementary but more colours to work with. If we cose orange for example we would get blue-violet and blue-green and the orange would stand out nicely against the more muted shades of the complementary colours. ![[../../Attachments/Pasted image 20230311150602.png]]
+- Split Complementary uses colours on either side of the complement. Gives same level of contrast as complementary but more colours to work with. If we chose orange for example, as shown below, we would get blue-violet and blue-green and the orange would stand out nicely against the more muted shades of the complementary colours. There is a visual sophistication as you are working with two closely related colours and you combine with something with a completely opposing look. See [here](https://www.linkedin.com/learning/color-for-design-and-art/finding-palettes-within-the-color-wheel?autoplay=true&u=57684225)![[../../Attachments/Pasted image 20230316111846.png]]![[../../Attachments/Pasted image 20230311150602.png]]
 - Triadic colour scheme uses 3 colurs that are evenly spaced. Forming perfect triangle on the wheel. Tend to be striking, especially with primary or secondary colours. Strong potential for expressing feelings of energy and diveristy. ![[../../Attachments/Pasted image 20230311150842.png]]
 - Tetradic colur schemes form a pattren that is rectangular on the wheel, using two complementary colour scheme. Works best if you let one colour dominate and use the others as an accent. ![[../../Attachments/Pasted image 20230311151212.png]]
 
