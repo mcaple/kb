@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ac8c99b34712cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S2 - Capture/S2-Week3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S2 - Capture/S2-Week2.md",
+                "file": "Cert IV/S2 - Capture/S2-Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S2 - Capture/S2-Week2.md",
+                "file": "Cert IV/S2 - Capture/S2-Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S2 - Capture/S2-Week2.md"
+                "file": "Cert IV/S2 - Capture/S2-Week3.md"
               }
             }
           },
@@ -247,11 +259,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ed01c4c7f6af648",
+  "active": "4ac8c99b34712cc6",
   "lastOpenFiles": [
+    "Cert IV/S2 - Capture/S2-Week2.md",
+    "Cert IV/S2 - Capture/S2-Week3.md",
     "Cert IV/S2 - Capture/S2-Week1.md",
     "Cert IV/S1 - Industry/S1-Week2.md",
-    "Cert IV/S2 - Capture/S2-Week2.md",
     "Cert IV/S3 - Colour/S3-Week3.md",
     "Camera/Colour Wheel.md",
     "Cert IV/S3 - Colour/S3-Week5.md",
@@ -289,7 +302,6 @@
     "Cert IV/S1 - Industry",
     "Cert IV/S3 - Colour",
     "Cert IV",
-    "Timestamps/2023/03-March/2023-03-10-Friday.md",
     "Timestamps/2023/03-March"
   ]
 }
