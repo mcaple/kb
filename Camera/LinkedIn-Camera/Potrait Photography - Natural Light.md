@@ -1,0 +1,1 @@
+The course is [here](https://www.linkedin.com/learning/learning-natural-light-portrait-photography/welcome?autoplay=true&u=57684225)

@@ -126,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed803358367bee2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1b1e0f9837dd1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
+                "file": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
+                "file": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md"
+                "file": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md"
               }
             }
           },
@@ -283,10 +307,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04df9dc2009ff341",
+  "active": "e1b1e0f9837dd1dd",
   "lastOpenFiles": [
-    "Camera/Taking a photo.md",
+    "Camera/LinkedIn-Camera/Photography Exposure Part 2.md",
+    "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
     "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
+    "Camera/Taking a photo.md",
     "Camera/LinkedIn-Camera",
     "Timestamps/2023/04-April/2023-04-17-Monday.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
@@ -321,8 +347,6 @@
     "Obsidian/Obsidian setup.md",
     "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
     "Camera/Aperture.md",
-    "Camera/Exposure.md",
-    "Camera/Modes.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",
