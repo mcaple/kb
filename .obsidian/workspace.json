@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04df9dc2009ff341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Taking a photo.md",
+                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Taking a photo.md",
+                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Taking a photo.md"
+                "file": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md"
               }
             }
           },
@@ -271,8 +283,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9b10336b988b6d56",
+  "active": "04df9dc2009ff341",
   "lastOpenFiles": [
+    "Camera/Taking a photo.md",
+    "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
+    "Camera/LinkedIn-Camera",
     "Timestamps/2023/04-April/2023-04-17-Monday.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S4 - Lighting/S4-Week5.md",
@@ -308,8 +323,6 @@
     "Camera/Aperture.md",
     "Camera/Exposure.md",
     "Camera/Modes.md",
-    "Camera/ISO.md",
-    "Camera/Shutter.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",

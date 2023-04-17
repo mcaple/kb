@@ -1,0 +1,1 @@
+The course is [here](https://www.linkedin.com/learning/photography-foundations-exposure-part-1/autofocus-basics-2?autoSkip=true&autoplay=true&resume=false&u=57684225)
