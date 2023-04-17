@@ -20,3 +20,5 @@ To get around this we need to get more light to the sensor so that our shutter s
 
 
 The human eye has around 18-20 stops of dynamic range whe looking at what's around us. A camera typically has between 12-14 stops of dynamic range (maximum span of light that can be seen is any one situation). This is why the eye can see for instance someone standing infront of a window when there is a lot of light behind them but the camera sees the person is big shadows.
+
+Cameras sometimes have an auto exposure bracketing function so that they take a photo at maybe 3 different exposures so that post production you can decide which works. You can see how this is done [here](https://photofocus.com/photography/setting-up-bracketing-on-sony-cameras/)
