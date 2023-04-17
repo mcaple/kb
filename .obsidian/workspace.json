@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Taking a photo.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Taking a photo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md",
+                "file": "Camera/Taking a photo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S4 - Lighting/S4-Week2.md"
+                "file": "Camera/Taking a photo.md"
               }
             }
           },
@@ -273,9 +273,10 @@
   },
   "active": "9b10336b988b6d56",
   "lastOpenFiles": [
+    "Timestamps/2023/04-April/2023-04-17-Monday.md",
+    "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S4 - Lighting/S4-Week5.md",
     "Cert IV/S4 - Lighting/S4-Week1.md",
-    "Cert IV/S4 - Lighting/S4-Week2.md",
     "Timestamps/2023/04-April/2023-04-09-Sunday.md",
     "Cert IV/S3 - Colour/S3-Week1&2.md",
     "Timestamps/2023/04-April",
@@ -309,7 +310,6 @@
     "Camera/Modes.md",
     "Camera/ISO.md",
     "Camera/Shutter.md",
-    "Bins/Templates/Daily Note Template.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",
