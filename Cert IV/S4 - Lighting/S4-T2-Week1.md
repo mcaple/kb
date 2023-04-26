@@ -13,3 +13,5 @@ Split light, bring light slightlty forward of the face.
 Butterly-beauty light should not be too high to produce socket shadow or too low then you do not get the cheek contours.
 
 Light sources should probably be a bit larger to give a softer outcome.
+
+We want good contrast and sharp
