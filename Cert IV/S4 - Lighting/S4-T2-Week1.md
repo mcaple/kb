@@ -15,3 +15,7 @@ Butterly-beauty light should not be too high to produce socket shadow or too low
 Light sources should probably be a bit larger to give a softer outcome.
 
 We want good contrast and sharp
+
+Dark clothing with slight people makes them slighter
+
+Potraits, use mid or long length lens (50-70 mm)
