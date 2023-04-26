@@ -19,3 +19,10 @@ We want good contrast and sharp
 Dark clothing with slight people makes them slighter
 
 Potraits, use mid or long length lens (50-70 mm)
+
+Spill, bring the light or camera closer?
+
+If the back meter reading and the camera are the same then the background will be white
+If I go down a stop on the background light then the background goes greyer
+Another stop will become darker.
+
