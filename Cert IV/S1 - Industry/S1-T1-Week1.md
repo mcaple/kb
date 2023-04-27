@@ -29,3 +29,15 @@ Group from Layers
 
 To keep layers together
 
+
+### Loading layers
+
+File -> script -> load files into stack
+
+Then select all the layers you want click open.
+
+Now select them all again in the 'Load Layers' dialogue.
+
+#### Editing layers
+
+Cmd T allows us to select a layer for resize etc.
