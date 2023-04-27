@@ -47,3 +47,5 @@ Cmd T allows us to select a layer for resize etc.
 Click on 'Relative' and if you want to add a border to bottom then click on the middle top. Say by how much you want to add, for instance 4cms. Select a canvas extension color and hit OK
 
 Image->Canvas size
+
+Cannot be a layer otherwise you cannot do this
