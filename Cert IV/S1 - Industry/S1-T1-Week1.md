@@ -9,3 +9,12 @@ To duplicate a layer
 Right click duplicate
 Drag layer to + sign
 Cmd J will duplicate
+
+To create a layer
+
+Cmd-shift N
+Use plus sign
+
+Move layers
+
+V
