@@ -18,3 +18,14 @@ Use plus sign
 Move layers
 
 V
+
+Delete layers
+
+Layer selected press delete
+Right click and hit delete layer
+Drag to bin
+
+Group from Layers
+
+To keep layers together
+
