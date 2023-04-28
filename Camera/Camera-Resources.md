@@ -4,3 +4,4 @@ To reserach colour we can use [canva](https://www.canva.com/en/)
 
 [Citation generator](https://tafensw.libguides.com/citationgenerator/websites/webpage)
 
+[List of free resources](https://shotkit.com/free-photographers-resources/)
