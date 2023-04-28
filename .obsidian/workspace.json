@@ -198,9 +198,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e436514768204c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAC/Troubleshooting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Photographers/Justine-Varga.md",
+                "file": "MAC/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Photographers/Justine-Varga.md",
+                "file": "MAC/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Photographers/Justine-Varga.md"
+                "file": "MAC/Troubleshooting.md"
               }
             }
           },
@@ -355,10 +367,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "41a53cae2f82f5b1",
+  "active": "e436514768204c36",
   "lastOpenFiles": [
-    "Timestamps/2023/04-April/2023-04-28-Friday.md",
     "Camera/Photographers/Justine-Varga.md",
+    "MAC/Troubleshooting.md",
+    "MAC",
+    "Timestamps/2023/04-April/2023-04-28-Friday.md",
     "Camera/Photographers",
     "Cert IV/S1 - Industry/S1-T1-Week1.md",
     "Cert IV/S4 - Lighting/S4-T2-Week1.md",
@@ -396,12 +410,10 @@
     "Camera/Lightroom.md",
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
-    "Readme.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",
     "Cert IV/S3 - Colour",
-    "Cert IV",
-    "Timestamps/2023/03-March"
+    "Cert IV"
   ]
 }
