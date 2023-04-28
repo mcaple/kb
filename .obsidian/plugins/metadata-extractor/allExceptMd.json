@@ -53,6 +53,10 @@
       "relativePath": "Bins/Templates"
     },
     {
+      "name": "LinkedIn-Camera",
+      "relativePath": "Camera/LinkedIn-Camera"
+    },
+    {
       "name": "S1 - Industry",
       "relativePath": "Cert IV/S1 - Industry"
     },
@@ -63,6 +67,10 @@
     {
       "name": "S3 - Colour",
       "relativePath": "Cert IV/S3 - Colour"
+    },
+    {
+      "name": "S3 - Creative Process and Communication",
+      "relativePath": "Cert IV/S3 - Creative Process and Communication"
     },
     {
       "name": "S4 - Lighting",
@@ -197,14 +205,14 @@
       "relativePath": "Attachments/Pasted image 20230311163437.png"
     },
     {
-      "name": "Pasted image 20230311163541.png",
-      "basename": "Pasted image 20230311163541",
-      "relativePath": "Attachments/Pasted image 20230311163541.png"
-    },
-    {
       "name": "Pasted image 20230311163641.png",
       "basename": "Pasted image 20230311163641",
       "relativePath": "Attachments/Pasted image 20230311163641.png"
+    },
+    {
+      "name": "Pasted image 20230311163541.png",
+      "basename": "Pasted image 20230311163541",
+      "relativePath": "Attachments/Pasted image 20230311163541.png"
     },
     {
       "name": "Pasted image 20230311164935.png",
