@@ -181,14 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S1 - Industry/S1-T1-Week1.md",
+                "file": "Timestamps/2023/04-April/2023-04-28-Friday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a53cae2f82f5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Photographers/Justine-Varga.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S1 - Industry/S1-T1-Week1.md",
+                "file": "Camera/Photographers/Justine-Varga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S1 - Industry/S1-T1-Week1.md",
+                "file": "Camera/Photographers/Justine-Varga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S1 - Industry/S1-T1-Week1.md"
+                "file": "Camera/Photographers/Justine-Varga.md"
               }
             }
           },
@@ -343,10 +355,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0abf779df9949d16",
+  "active": "41a53cae2f82f5b1",
   "lastOpenFiles": [
-    "Cert IV/S4 - Lighting/S4-T2-Week1.md",
+    "Timestamps/2023/04-April/2023-04-28-Friday.md",
+    "Camera/Photographers/Justine-Varga.md",
+    "Camera/Photographers",
     "Cert IV/S1 - Industry/S1-T1-Week1.md",
+    "Cert IV/S4 - Lighting/S4-T2-Week1.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Creative-Introduction.md",
     "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
     "Cert IV/S3 - Creative Process and Communication",
@@ -382,8 +397,6 @@
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
     "Readme.md",
-    "Obsidian/Useage.md",
-    "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday.md",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",
