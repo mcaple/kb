@@ -16,3 +16,4 @@ Famous photographers  _Using https://www.photoworkout.com/most-famous-photograph
 
 [Ted Forbes](https://www.pinterest.com.au/tedforbes/)
 
+[Lightroom v DarkTable](https://www.youtube.com/watch?v=qaigemb6aQc)
