@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera/Camera-Resources.md",
+                "file": "Camera/DarkTable.md",
                 "mode": "source",
                 "source": false
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Camera-Resources.md",
+                "file": "Camera/DarkTable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Camera-Resources.md",
+                "file": "Camera/DarkTable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Camera-Resources.md"
+                "file": "Camera/DarkTable.md"
               }
             }
           },
@@ -393,8 +393,8 @@
   },
   "active": "f89cc76dcf0c6a6b",
   "lastOpenFiles": [
-    "Camera/DarkTable.md",
     "Camera/Camera-Resources.md",
+    "Camera/DarkTable.md",
     "MAC/Troubleshooting.md",
     "Camera/Photographers/Justine-Varga.md",
     "MAC",

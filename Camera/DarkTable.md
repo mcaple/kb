@@ -2,3 +2,8 @@ Using [this](https://mathiashueber.com/migrate-from-lightroom-to-open-source-alt
 
 [Black and whiite](https://mel365.com/darktable-black-and-white/)
 
+[Bruce Williams series](https://www.youtube.com/watch?v=xNvCA7lzMHI)
+
+[Aurelien Pierre](https://www.youtube.com/watch?v=fQmjKteAYt8)
+
+
