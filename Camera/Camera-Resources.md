@@ -7,3 +7,5 @@ To reserach colour we can use [canva](https://www.canva.com/en/)
 [List of free resources](https://shotkit.com/free-photographers-resources/)
 
 [Magnum](https://www.magnumphotos.com/photographer/elliott-erwitt/)
+
+Famous photographers  _Using https://www.photoworkout.com/most-famous-photographers/_
