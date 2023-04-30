@@ -9,3 +9,5 @@ To reserach colour we can use [canva](https://www.canva.com/en/)
 [Magnum](https://www.magnumphotos.com/photographer/elliott-erwitt/)
 
 Famous photographers  _Using https://www.photoworkout.com/most-famous-photographers/_
+
+[Types of photography](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)
