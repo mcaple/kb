@@ -13,3 +13,6 @@ Famous photographers  _Using https://www.photoworkout.com/most-famous-photograph
 [Types of photography](https://www.adobe.com/creativecloud/photography/discover/types-of-photography.html)
 
 [Why street photography all looks the same](https://youtu.be/KIUePO3lj0c)
+
+[Ted Forbes](https://www.pinterest.com.au/tedforbes/)
+
