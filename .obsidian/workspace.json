@@ -229,14 +229,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera/DarkTable.md",
+                "file": "DarkTable/DT-Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29afa263cee1139d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DarkTable/DT-Keyboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5952cc8645c4a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DarkTable/DT-StylesAndPresets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc56c88f72ba7cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DarkTable/DT-Modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -302,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/DarkTable.md",
+                "file": "DarkTable/DT-Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/DarkTable.md",
+                "file": "DarkTable/DT-Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/DarkTable.md"
+                "file": "DarkTable/DT-Modules.md"
               }
             }
           },
@@ -391,10 +427,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f89cc76dcf0c6a6b",
+  "active": "bc56c88f72ba7cdf",
   "lastOpenFiles": [
+    "DarkTable/DT-Keyboard.md",
+    "DarkTable/DT-Intro.md",
+    "DarkTable/DT-Modules.md",
+    "DarkTable/DT-StylesAndPresets.md",
+    "DarkTable",
     "Camera/Camera-Resources.md",
-    "Camera/DarkTable.md",
     "MAC/Troubleshooting.md",
     "Camera/Photographers/Justine-Varga.md",
     "MAC",
@@ -425,9 +465,6 @@
     "Attachments/Pasted image 20230320190621.png",
     "Attachments/Pasted image 20230320190554.png",
     "Attachments/Pasted image 20230320185610.png",
-    "Cert IV/S2 - Capture/S2-Week1.md",
-    "Cert IV/S1 - Industry/S1-Week2.md",
-    "Camera/Colour Wheel.md",
     "Attachments/Pasted image 20230316120948.png",
     "Attachments/Pasted image 20230316120914.png",
     "Attachments/Pasted image 20230316120835.png",
@@ -437,7 +474,6 @@
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
     "Cert IV/S1 - Industry",
-    "Cert IV/S3 - Colour",
-    "Cert IV"
+    "Cert IV/S3 - Colour"
   ]
 }
