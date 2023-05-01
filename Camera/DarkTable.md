@@ -12,6 +12,14 @@ Styles work across all modules, presets work only on a single module
 
 You can import presets by clicking on the settings cog in darkroom and then hitting import shown [here](https://youtu.be/raZnhgT3PmY)
 
+### Bruce Williams suggests
+
+Look at video here
+
+Display referred editing
+Scene referred editing
+
+Should use scene referred
 
 ### Keyboard short cuts
 
