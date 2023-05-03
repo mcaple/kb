@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S3 - Colour/S3-Cubism.md",
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md",
                 "mode": "source",
                 "source": false
               }
@@ -289,14 +289,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera/Photographers/David-Hockney.md",
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18d6319b4d2dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camera/Photographers/Michael-Wesley.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -362,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Photographers/David-Hockney.md",
+                "file": "Camera/Photographers/Michael-Wesley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Photographers/David-Hockney.md",
+                "file": "Camera/Photographers/Michael-Wesley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Photographers/David-Hockney.md"
+                "file": "Camera/Photographers/Michael-Wesley.md"
               }
             }
           },
@@ -451,9 +463,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe8293debfc4c18d",
+  "active": "d18d6319b4d2dcc5",
   "lastOpenFiles": [
-    "Cert IV/S3 - Colour/S3-Cubism.md",
+    "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md",
+    "Camera/Photographers/Michael-Wesley.md",
+    "Cert IV/S3 - Creative Process and Communication/S3-Creative-Introduction.md",
     "Camera/Photographers/David-Hockney.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S4 - Lighting/S4-Week1.md",
@@ -470,7 +484,6 @@
     "Timestamps/2023/04-April/2023-04-28-Friday.md",
     "Camera/Photographers",
     "Cert IV/S1 - Industry/S1-T1-Week1.md",
-    "Cert IV/S3 - Creative Process and Communication/S3-Creative-Introduction.md",
     "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
     "Cert IV/S3 - Creative Process and Communication",
     "Camera/LinkedIn-Camera/Photography Exposure Part 2.md",
@@ -484,7 +497,6 @@
     "Timestamps/2023/04-April",
     "Cert IV/S3 - Colour/S3-Week3.md",
     "Cert IV/S3 - Colour/S3-Week5.md",
-    "Cert IV/S2 - Capture/S2-Week3.md",
     "Attachments/Pasted image 20230320190739.png",
     "Attachments/Pasted image 20230320190621.png",
     "Attachments/Pasted image 20230320190554.png",
