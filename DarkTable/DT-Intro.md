@@ -17,6 +17,8 @@ Scene referred editing
 
 
 
+A good use case for DarkTable is described in [Lightoom and Darktable: the verdict two years after switching](https://www.dpreview.com/forums/post/59324818)
+
 
 
 
