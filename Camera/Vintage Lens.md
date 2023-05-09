@@ -1,0 +1,1 @@
+Current mount is [here](https://soundstores.net/products/fotasy-copper-adjustable-m42-lens-to-sony-fe-adapter-42mm-screw-mount-lens-to-e-mount-fits-sony-a7-a7-ii-a7-iii-a7r-a7r-ii-a7r-iii-a7s-a7s-ii-a7s-iii-a9-a7r-iv-a6600-a6500-a6400-a6300-a6100-a6000?variant=39737723322521)
