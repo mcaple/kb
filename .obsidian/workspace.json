@@ -330,9 +330,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a2a0cbd1532dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S2 - Capture/S2 - F16 Rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -398,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DarkTable/DT-Intro.md",
+                "file": "Cert IV/S2 - Capture/S2 - F16 Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DarkTable/DT-Intro.md",
+                "file": "Cert IV/S2 - Capture/S2 - F16 Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DarkTable/DT-Intro.md"
+                "file": "Cert IV/S2 - Capture/S2 - F16 Rule.md"
               }
             }
           },
@@ -487,8 +499,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9198adf3cac7630",
+  "active": "91a2a0cbd1532dcf",
   "lastOpenFiles": [
+    "DarkTable/DT-Intro.md",
+    "Cert IV/S2 - Capture/S2 - F16 Rule.md",
     "Cert IV/S4 - Lighting/S4-Week1.md",
     "Cert IV/S4 - Lighting/S4-T2-Week1.md",
     "Camera/Exposure.md",
@@ -503,7 +517,6 @@
     "Camera/Photographers/David-Hockney.md",
     "DarkTable/DT-Modules.md",
     "DarkTable/DT-Keyboard.md",
-    "DarkTable/DT-Intro.md",
     "DarkTable/DT-StylesAndPresets.md",
     "DarkTable",
     "Camera/Camera-Resources.md",
@@ -519,7 +532,6 @@
     "Camera/LinkedIn-Camera/Photography Exposure Part 1.md",
     "Camera/Taking a photo.md",
     "Camera/LinkedIn-Camera",
-    "Timestamps/2023/04-April/2023-04-17-Monday.md",
     "Timestamps/2023/04-April",
     "Attachments/Pasted image 20230320190739.png",
     "Attachments/Pasted image 20230320190621.png",
