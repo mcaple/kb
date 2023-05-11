@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Scraping.md",
+                "file": "Trading/Trading-Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -446,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Scraping.md",
+                "file": "Trading/Trading-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Scraping.md",
+                "file": "Trading/Trading-Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Scraping.md"
+                "file": "Trading/Trading-Intro.md"
               }
             }
           },
@@ -537,8 +537,8 @@
   },
   "active": "3c76962f8294be26",
   "lastOpenFiles": [
-    "Trading/Trading-Intro.md",
     "Trading/Scraping.md",
+    "Trading/Trading-Intro.md",
     "Camera/Vintage Lens.md",
     "Trading",
     "Camera/Camera-Resources.md",
