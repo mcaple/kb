@@ -1,0 +1,1 @@
+[Top 10 tips to avoid getting detected](https://www.scraperapi.com/blog/10-tips-for-web-scraping/#:~:text=Use%20a%20Headless%20Browser&text=Tools%20like%20Selenium%20and%20Puppeteer,order%20to%20completely%20avoid%20detection.)
