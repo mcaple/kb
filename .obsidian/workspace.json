@@ -354,9 +354,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1680801bc13319ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trading/Trading-Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -422,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Vintage Lens.md",
+                "file": "Trading/Trading-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Vintage Lens.md",
+                "file": "Trading/Trading-Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +474,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Vintage Lens.md"
+                "file": "Trading/Trading-Intro.md"
               }
             }
           },
@@ -511,10 +523,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "06cb35895c64e365",
+  "active": "1680801bc13319ac",
   "lastOpenFiles": [
-    "Camera/Camera-Resources.md",
     "Camera/Vintage Lens.md",
+    "Trading/Trading-Intro.md",
+    "Trading",
+    "Camera/Camera-Resources.md",
     "Camera/Taking a photo.md",
     "Camera/Modes.md",
     "Cert IV/S2 - Capture/S2 - F16 Rule.md",
@@ -541,7 +555,6 @@
     "Timestamps/2023/04-April/2023-04-28-Friday.md",
     "Camera/Photographers",
     "Cert IV/S1 - Industry/S1-T1-Week1.md",
-    "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md",
     "Cert IV/S3 - Creative Process and Communication",
     "Camera/LinkedIn-Camera",
     "Timestamps/2023/04-April",
@@ -557,7 +570,6 @@
     "Attachments/Pasted image 20230312115730.png",
     "Cert IV/S4 - Lighting",
     "Cert IV/S2 - Capture",
-    "Cert IV/S1 - Industry",
-    "Cert IV/S3 - Colour"
+    "Cert IV/S1 - Industry"
   ]
 }
