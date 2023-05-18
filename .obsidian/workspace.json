@@ -366,9 +366,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "542a3845230e7fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -413,6 +425,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6f7299d520bca3c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -434,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera/Aperture.md",
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera/Aperture.md",
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -474,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera/Aperture.md"
+                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md"
               }
             }
           },
@@ -523,8 +543,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1680801bc13319ac",
+  "active": "542a3845230e7fc2",
   "lastOpenFiles": [
+    "Timestamps/2023/05-May/2023-05-18-Thursday.md",
+    "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+    "Timestamps/2023/05-May",
     "Trading/Trading-Intro.md",
     "Camera/Vintage Lens.md",
     "Camera/Camera-Resources.md",
@@ -551,9 +574,7 @@
     "DarkTable/DT-StylesAndPresets.md",
     "DarkTable",
     "MAC/Troubleshooting.md",
-    "Camera/Photographers/Justine-Varga.md",
     "MAC",
-    "Timestamps/2023/04-April/2023-04-28-Friday.md",
     "Camera/Photographers",
     "Cert IV/S3 - Creative Process and Communication",
     "Camera/LinkedIn-Camera",
@@ -569,7 +590,6 @@
     "Attachments/Pasted image 20230312115748.png",
     "Attachments/Pasted image 20230312115730.png",
     "Cert IV/S4 - Lighting",
-    "Cert IV/S2 - Capture",
-    "Cert IV/S1 - Industry"
+    "Cert IV/S2 - Capture"
   ]
 }
