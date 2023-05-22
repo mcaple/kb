@@ -23,3 +23,6 @@ Eyes must be super sharp
 
 You can use long lens for bokeh background or wide angle for overall look with interesting background
 
+Google, reflector outdoors
+
+Silver reflector is the bright one
