@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+                "file": "Cert IV/S1 - Industry/S1-Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+                "file": "Cert IV/S1 - Industry/S1-Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +471,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+                "file": "Cert IV/S1 - Industry/S1-Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md"
+                "file": "Cert IV/S1 - Industry/S1-Week2.md"
               }
             }
           },
@@ -545,8 +545,13 @@
   },
   "active": "542a3845230e7fc2",
   "lastOpenFiles": [
-    "Timestamps/2023/05-May/2023-05-18-Thursday.md",
+    "Cert IV/S1 - Industry/S1-T2-Week2.md",
+    "Cert IV/S1 - Industry/S1-T1-Week1.md",
+    "Cert IV/S3 - Colour/S3-Week5.md",
+    "Cert IV/S3 - Colour/S3-Week3.md",
+    "Cert IV/S3 - Colour/S3-Week1&2.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Assessment.md",
+    "Timestamps/2023/05-May/2023-05-18-Thursday.md",
     "Timestamps/2023/05-May",
     "Trading/Trading-Intro.md",
     "Camera/Vintage Lens.md",
@@ -563,17 +568,12 @@
     "Camera/ISO.md",
     "Cert IV/S4 - Lighting/S4-Week5.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
-    "Cert IV/S1 - Industry/S1-T2-Week2.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Surrealism.md",
     "Camera/Photographers/Michael-Wesley.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Creative-Introduction.md",
     "Camera/Photographers/David-Hockney.md",
-    "DarkTable/DT-Modules.md",
-    "DarkTable/DT-Keyboard.md",
-    "DarkTable/DT-StylesAndPresets.md",
     "DarkTable",
-    "MAC/Troubleshooting.md",
     "MAC",
     "Camera/Photographers",
     "Cert IV/S3 - Creative Process and Communication",
