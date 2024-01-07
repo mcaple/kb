@@ -97,6 +97,10 @@
       "relativePath": "Timestamps/2023"
     },
     {
+      "name": "2024",
+      "relativePath": "Timestamps/2024"
+    },
+    {
       "name": "Daily",
       "relativePath": "Timestamps/Daily"
     },
@@ -119,6 +123,10 @@
     {
       "name": "05-May",
       "relativePath": "Timestamps/2023/05-May"
+    },
+    {
+      "name": "01-January",
+      "relativePath": "Timestamps/2024/01-January"
     },
     {
       "name": "2023",
