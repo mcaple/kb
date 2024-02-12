@@ -385,7 +385,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Timestamps/2024/02-February/2024-02-12-Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -467,7 +467,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Timestamps/2024/02-February/2024-02-12-Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -484,7 +484,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Timestamps/2024/02-February/2024-02-12-Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -507,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Timestamps/2024/02-February/2024-02-12-Monday.md"
               }
             }
           },
@@ -556,8 +556,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5fcf93b700ec961",
+  "active": "80877bdccf665285",
   "lastOpenFiles": [
+    "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md",
+    "Timestamps/2024/02-February/2024-02-12-Monday.md",
+    "Timestamps/2024/02-February",
     "Readme.md",
     "README.md",
     "Nginx/Nginx-useage.md",
@@ -586,14 +589,11 @@
     "Camera/Exposure.md",
     "Camera/ISO.md",
     "Cert IV/S4 - Lighting/S4-Week5.md",
-    "Cert IV/S4 - Lighting/S4-Week2.md",
-    "Cert IV/S3 - Creative Process and Communication/S3-Surrealism.md",
     "DarkTable",
     "MAC",
     "Camera/Photographers",
     "Cert IV/S3 - Creative Process and Communication",
     "Camera/LinkedIn-Camera",
-    "Timestamps/2023/04-April",
     "Attachments/Pasted image 20230320190739.png",
     "Attachments/Pasted image 20230320190621.png",
     "Attachments/Pasted image 20230320190554.png",
