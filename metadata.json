@@ -1,5 +1,121 @@
 [
   {
+    "fileName": "Neo4j-attributes",
+    "relativePath": "Neo4j/Neo4j-attributes.md"
+  },
+  {
+    "fileName": "Vintage Lens",
+    "relativePath": "Camera/Vintage Lens.md"
+  },
+  {
+    "fileName": "Michael-Wesley",
+    "relativePath": "Camera/Photographers/Michael-Wesley.md",
+    "links": [
+      {
+        "link": "wesely.org",
+        "displayText": "here"
+      }
+    ]
+  },
+  {
+    "fileName": "Justine-Varga",
+    "relativePath": "Camera/Photographers/Justine-Varga.md"
+  },
+  {
+    "fileName": "David-Hockney",
+    "relativePath": "Camera/Photographers/David-Hockney.md"
+  },
+  {
+    "fileName": "Potrait Photography - Natural Light",
+    "relativePath": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md"
+  },
+  {
+    "fileName": "Photography Exposure Part 2",
+    "relativePath": "Camera/LinkedIn-Camera/Photography Exposure Part 2.md"
+  },
+  {
+    "fileName": "Photography Exposure Part 1",
+    "relativePath": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md"
+  },
+  {
+    "fileName": "Tone",
+    "relativePath": "Camera/Tone.md"
+  },
+  {
+    "fileName": "Taking a photo",
+    "relativePath": "Camera/Taking a photo.md",
+    "headings": [
+      {
+        "heading": "The exposure triangle and reciprocity",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Shutter",
+    "relativePath": "Camera/Shutter.md"
+  },
+  {
+    "fileName": "Modes",
+    "relativePath": "Camera/Modes.md",
+    "headings": [
+      {
+        "heading": "Auto",
+        "level": 3
+      },
+      {
+        "heading": "Program",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Lightroom",
+    "relativePath": "Camera/Lightroom.md",
+    "headings": [
+      {
+        "heading": "Collections",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "ISO",
+    "relativePath": "Camera/ISO.md",
+    "headings": [
+      {
+        "heading": "Keep your ISO as low as possible",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Exposure",
+    "relativePath": "Camera/Exposure.md"
+  },
+  {
+    "fileName": "Colour Wheel",
+    "relativePath": "Camera/Colour Wheel.md"
+  },
+  {
+    "fileName": "Camera-Resources",
+    "relativePath": "Camera/Camera-Resources.md"
+  },
+  {
+    "fileName": "Aperture",
+    "relativePath": "Camera/Aperture.md",
+    "headings": [
+      {
+        "heading": "F-stop",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Troubleshooting",
+    "relativePath": "MAC/Troubleshooting.md"
+  },
+  {
     "fileName": "Trading-Intro",
     "relativePath": "Trading/Trading-Intro.md"
   },
@@ -90,81 +206,6 @@
     ]
   },
   {
-    "fileName": "2023-02-09-Thursday",
-    "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
-    "frontmatter": {
-      "created": "2023-02-09 13:12"
-    },
-    "headings": [
-      {
-        "heading": "Thursday, February 09, 2023",
-        "level": 1
-      },
-      {
-        "heading": "📅 Daily Questions",
-        "level": 3
-      },
-      {
-        "heading": "🌜 Last night, after work, I...",
-        "level": 5
-      },
-      {
-        "heading": "🙌 One thing I've excited about right now is...",
-        "level": 5
-      },
-      {
-        "heading": "🚀 One+ thing I plan to accomplish today is...",
-        "level": 5
-      },
-      {
-        "heading": "👎 One thing I'm struggling with today is...",
-        "level": 5
-      },
-      {
-        "heading": "📝 Notes",
-        "level": 1
-      },
-      {
-        "heading": "To do",
-        "level": 3
-      },
-      {
-        "heading": "Outcomes",
-        "level": 1
-      },
-      {
-        "heading": "Notes created today",
-        "level": 3
-      },
-      {
-        "heading": "Notes last touched today",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "+Daily Notes"
-      },
-      {
-        "link": "2023-02-08-Wednesday",
-        "displayText": "Yesterday",
-        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
-      },
-      {
-        "link": "2023-02-10-Friday",
-        "displayText": "Tomorrow"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2023-02-08-Wednesday",
-        "link": "2023-02-09-Thursday",
-        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
-        "displayText": "Tomorrow"
-      }
-    ]
-  },
-  {
     "fileName": "2023-02-08-Wednesday",
     "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
     "frontmatter": {
@@ -229,16 +270,16 @@
     ],
     "backlinks": [
       {
-        "fileName": "2023-02-09-Thursday",
-        "link": "2023-02-08-Wednesday",
-        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
-        "displayText": "Yesterday"
-      },
-      {
         "fileName": "2023-02-07-Tuesday",
         "link": "2023-02-08-Wednesday",
         "relativePath": "Timestamps/Daily/2023/02-February/2023-02-07-Tuesday.md",
         "displayText": "Tomorrow"
+      },
+      {
+        "fileName": "2023-02-09-Thursday",
+        "link": "2023-02-08-Wednesday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+        "displayText": "Yesterday"
       },
       {
         "fileName": "2023-02-09-Thursday",
@@ -334,6 +375,81 @@
         "fileName": "2023-02-06-Monday",
         "link": "2023-02-07-Tuesday",
         "relativePath": "Timestamps/Daily/2023/02-February/2023-02-06-Monday.md",
+        "displayText": "Tomorrow"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-02-09-Thursday",
+    "relativePath": "Timestamps/Daily/2023/02-February/2023-02-09-Thursday.md",
+    "frontmatter": {
+      "created": "2023-02-09 13:12"
+    },
+    "headings": [
+      {
+        "heading": "Thursday, February 09, 2023",
+        "level": 1
+      },
+      {
+        "heading": "📅 Daily Questions",
+        "level": 3
+      },
+      {
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "To do",
+        "level": 3
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2023-02-08-Wednesday",
+        "displayText": "Yesterday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md"
+      },
+      {
+        "link": "2023-02-10-Friday",
+        "displayText": "Tomorrow"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-02-08-Wednesday",
+        "link": "2023-02-09-Thursday",
+        "relativePath": "Timestamps/Daily/2023/02-February/2023-02-08-Wednesday.md",
         "displayText": "Tomorrow"
       }
     ]
@@ -1141,6 +1257,28 @@
     ]
   },
   {
+    "fileName": "Perlite",
+    "relativePath": "Obsidian/Perlite.md",
+    "headings": [
+      {
+        "heading": "One time setup",
+        "level": 4
+      },
+      {
+        "heading": "Themes",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Publish",
+        "link": "Perlite",
+        "relativePath": "Obsidian/Publish.md",
+        "displayText": "Obsidian/Perlite"
+      }
+    ]
+  },
+  {
     "fileName": "Useage",
     "relativePath": "Obsidian/Useage.md",
     "headings": [
@@ -1176,28 +1314,6 @@
         "fileName": "Obsidian setup",
         "link": "Publish",
         "relativePath": "Obsidian/Obsidian setup.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Perlite",
-    "relativePath": "Obsidian/Perlite.md",
-    "headings": [
-      {
-        "heading": "One time setup",
-        "level": 4
-      },
-      {
-        "heading": "Themes",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Publish",
-        "link": "Perlite",
-        "relativePath": "Obsidian/Publish.md",
-        "displayText": "Obsidian/Perlite"
       }
     ]
   },
@@ -1273,12 +1389,32 @@
     ]
   },
   {
-    "fileName": "Neo4j-attributes",
-    "relativePath": "Neo4j/Neo4j-attributes.md"
+    "fileName": "DT-Intro",
+    "relativePath": "DarkTable/DT-Intro.md",
+    "headings": [
+      {
+        "heading": "Bruce Williams suggests",
+        "level": 3
+      }
+    ]
   },
   {
-    "fileName": "Troubleshooting",
-    "relativePath": "MAC/Troubleshooting.md"
+    "fileName": "DT-Modules",
+    "relativePath": "DarkTable/DT-Modules.md"
+  },
+  {
+    "fileName": "DT-StylesAndPresets",
+    "relativePath": "DarkTable/DT-StylesAndPresets.md"
+  },
+  {
+    "fileName": "DT-Keyboard",
+    "relativePath": "DarkTable/DT-Keyboard.md",
+    "headings": [
+      {
+        "heading": "Keyboard short cuts",
+        "level": 3
+      }
+    ]
   },
   {
     "fileName": "Segah Reviews",
@@ -1317,32 +1453,76 @@
     "relativePath": "Literature Review/ICost.md"
   },
   {
-    "fileName": "DT-StylesAndPresets",
-    "relativePath": "DarkTable/DT-StylesAndPresets.md"
-  },
-  {
-    "fileName": "DT-Modules",
-    "relativePath": "DarkTable/DT-Modules.md"
-  },
-  {
-    "fileName": "DT-Keyboard",
-    "relativePath": "DarkTable/DT-Keyboard.md",
+    "fileName": "S2-Week4",
+    "relativePath": "Cert IV/S2 - Capture/S2-Week4.md",
     "headings": [
       {
-        "heading": "Keyboard short cuts",
+        "heading": "ISO and metering",
+        "level": 4
+      },
+      {
+        "heading": "Light metering",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "S2-Week3",
+    "relativePath": "Cert IV/S2 - Capture/S2-Week3.md",
+    "headings": [
+      {
+        "heading": "Shutter speed and movement",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "S2-Week2",
+    "relativePath": "Cert IV/S2 - Capture/S2-Week2.md",
+    "headings": [
+      {
+        "heading": "Apertures",
         "level": 3
       }
     ]
   },
   {
-    "fileName": "DT-Intro",
-    "relativePath": "DarkTable/DT-Intro.md",
+    "fileName": "S2-Week1",
+    "relativePath": "Cert IV/S2 - Capture/S2-Week1.md"
+  },
+  {
+    "fileName": "S2 - F16 Rule",
+    "relativePath": "Cert IV/S2 - Capture/S2 - F16 Rule.md"
+  },
+  {
+    "fileName": "S1-T1-Week1",
+    "relativePath": "Cert IV/S1 - Industry/S1-T1-Week1.md",
     "headings": [
       {
-        "heading": "Bruce Williams suggests",
+        "heading": "Loading layers",
+        "level": 3
+      },
+      {
+        "heading": "Editing layers",
+        "level": 4
+      },
+      {
+        "heading": "Change canvas size",
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "S1-Week2",
+    "relativePath": "Cert IV/S1 - Industry/S1-Week2.md"
+  },
+  {
+    "fileName": "S1-T2-Week2",
+    "relativePath": "Cert IV/S1 - Industry/S1-T2-Week2.md"
+  },
+  {
+    "fileName": "S4-T2-Week1",
+    "relativePath": "Cert IV/S4 - Lighting/S4-T2-Week1.md"
   },
   {
     "fileName": "S4-Week5",
@@ -1379,16 +1559,12 @@
     "relativePath": "Cert IV/S4 - Lighting/S4-Week1.md"
   },
   {
-    "fileName": "S4-T2-Week1",
-    "relativePath": "Cert IV/S4 - Lighting/S4-T2-Week1.md"
+    "fileName": "S3-Cubism",
+    "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md"
   },
   {
     "fileName": "S3-Surrealism",
     "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Surrealism.md"
-  },
-  {
-    "fileName": "S3-Cubism",
-    "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md"
   },
   {
     "fileName": "S3-Creative-Introduction",
@@ -1445,182 +1621,6 @@
       {
         "heading": "Elements and principles of design",
         "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "S2-Week4",
-    "relativePath": "Cert IV/S2 - Capture/S2-Week4.md",
-    "headings": [
-      {
-        "heading": "ISO and metering",
-        "level": 4
-      },
-      {
-        "heading": "Light metering",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "S2-Week3",
-    "relativePath": "Cert IV/S2 - Capture/S2-Week3.md",
-    "headings": [
-      {
-        "heading": "Shutter speed and movement",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "S2-Week2",
-    "relativePath": "Cert IV/S2 - Capture/S2-Week2.md",
-    "headings": [
-      {
-        "heading": "Apertures",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "S2-Week1",
-    "relativePath": "Cert IV/S2 - Capture/S2-Week1.md"
-  },
-  {
-    "fileName": "S2 - F16 Rule",
-    "relativePath": "Cert IV/S2 - Capture/S2 - F16 Rule.md"
-  },
-  {
-    "fileName": "S1-Week2",
-    "relativePath": "Cert IV/S1 - Industry/S1-Week2.md"
-  },
-  {
-    "fileName": "S1-T2-Week2",
-    "relativePath": "Cert IV/S1 - Industry/S1-T2-Week2.md"
-  },
-  {
-    "fileName": "S1-T1-Week1",
-    "relativePath": "Cert IV/S1 - Industry/S1-T1-Week1.md",
-    "headings": [
-      {
-        "heading": "Loading layers",
-        "level": 3
-      },
-      {
-        "heading": "Editing layers",
-        "level": 4
-      },
-      {
-        "heading": "Change canvas size",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Vintage Lens",
-    "relativePath": "Camera/Vintage Lens.md"
-  },
-  {
-    "fileName": "Tone",
-    "relativePath": "Camera/Tone.md"
-  },
-  {
-    "fileName": "Taking a photo",
-    "relativePath": "Camera/Taking a photo.md",
-    "headings": [
-      {
-        "heading": "The exposure triangle and reciprocity",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Shutter",
-    "relativePath": "Camera/Shutter.md"
-  },
-  {
-    "fileName": "Michael-Wesley",
-    "relativePath": "Camera/Photographers/Michael-Wesley.md",
-    "links": [
-      {
-        "link": "wesely.org",
-        "displayText": "here"
-      }
-    ]
-  },
-  {
-    "fileName": "Justine-Varga",
-    "relativePath": "Camera/Photographers/Justine-Varga.md"
-  },
-  {
-    "fileName": "David-Hockney",
-    "relativePath": "Camera/Photographers/David-Hockney.md"
-  },
-  {
-    "fileName": "Modes",
-    "relativePath": "Camera/Modes.md",
-    "headings": [
-      {
-        "heading": "Auto",
-        "level": 3
-      },
-      {
-        "heading": "Program",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Potrait Photography - Natural Light",
-    "relativePath": "Camera/LinkedIn-Camera/Potrait Photography - Natural Light.md"
-  },
-  {
-    "fileName": "Photography Exposure Part 2",
-    "relativePath": "Camera/LinkedIn-Camera/Photography Exposure Part 2.md"
-  },
-  {
-    "fileName": "Photography Exposure Part 1",
-    "relativePath": "Camera/LinkedIn-Camera/Photography Exposure Part 1.md"
-  },
-  {
-    "fileName": "Lightroom",
-    "relativePath": "Camera/Lightroom.md",
-    "headings": [
-      {
-        "heading": "Collections",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "ISO",
-    "relativePath": "Camera/ISO.md",
-    "headings": [
-      {
-        "heading": "Keep your ISO as low as possible",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "Exposure",
-    "relativePath": "Camera/Exposure.md"
-  },
-  {
-    "fileName": "Colour Wheel",
-    "relativePath": "Camera/Colour Wheel.md"
-  },
-  {
-    "fileName": "Camera-Resources",
-    "relativePath": "Camera/Camera-Resources.md"
-  },
-  {
-    "fileName": "Aperture",
-    "relativePath": "Camera/Aperture.md",
-    "headings": [
-      {
-        "heading": "F-stop",
-        "level": 3
       }
     ]
   },

@@ -385,7 +385,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -446,7 +446,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -466,7 +467,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +484,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx/Nginx-useage.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -506,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx/Nginx-useage.md"
+                "file": "README.md"
               }
             }
           },
@@ -555,8 +556,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "80877bdccf665285",
+  "active": "d5fcf93b700ec961",
   "lastOpenFiles": [
+    "Readme.md",
+    "README.md",
+    "Nginx/Nginx-useage.md",
     "Timestamps/2024/01-January/2024-01-07-Sunday.md",
     "Timestamps/2024/01-January",
     "Timestamps/2024",
@@ -584,9 +588,6 @@
     "Cert IV/S4 - Lighting/S4-Week5.md",
     "Cert IV/S4 - Lighting/S4-Week2.md",
     "Cert IV/S3 - Creative Process and Communication/S3-Surrealism.md",
-    "Camera/Photographers/Michael-Wesley.md",
-    "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md",
-    "Cert IV/S3 - Creative Process and Communication/S3-Creative-Introduction.md",
     "DarkTable",
     "MAC",
     "Camera/Photographers",
