@@ -1,9 +1,5 @@
 [
   {
-    "fileName": "Neo4j-attributes",
-    "relativePath": "Neo4j/Neo4j-attributes.md"
-  },
-  {
     "fileName": "Vintage Lens",
     "relativePath": "Camera/Vintage Lens.md"
   },
@@ -18,12 +14,12 @@
     ]
   },
   {
-    "fileName": "Justine-Varga",
-    "relativePath": "Camera/Photographers/Justine-Varga.md"
-  },
-  {
     "fileName": "David-Hockney",
     "relativePath": "Camera/Photographers/David-Hockney.md"
+  },
+  {
+    "fileName": "Justine-Varga",
+    "relativePath": "Camera/Photographers/Justine-Varga.md"
   },
   {
     "fileName": "Potrait Photography - Natural Light",
@@ -70,6 +66,10 @@
     ]
   },
   {
+    "fileName": "Camera-Resources",
+    "relativePath": "Camera/Camera-Resources.md"
+  },
+  {
     "fileName": "Lightroom",
     "relativePath": "Camera/Lightroom.md",
     "headings": [
@@ -98,10 +98,6 @@
     "relativePath": "Camera/Colour Wheel.md"
   },
   {
-    "fileName": "Camera-Resources",
-    "relativePath": "Camera/Camera-Resources.md"
-  },
-  {
     "fileName": "Aperture",
     "relativePath": "Camera/Aperture.md",
     "headings": [
@@ -112,8 +108,8 @@
     ]
   },
   {
-    "fileName": "Troubleshooting",
-    "relativePath": "MAC/Troubleshooting.md"
+    "fileName": "Neo4j-attributes",
+    "relativePath": "Neo4j/Neo4j-attributes.md"
   },
   {
     "fileName": "Trading-Intro",
@@ -122,6 +118,17 @@
   {
     "fileName": "Scraping",
     "relativePath": "Trading/Scraping.md"
+  },
+  {
+    "fileName": "Regolith",
+    "relativePath": "Regolith/Regolith.md",
+    "backlinks": [
+      {
+        "fileName": "2023-01-30-Monday",
+        "link": "Regolith",
+        "relativePath": "Timestamps/Daily/2023/01-January/2023-01-30-Monday.md"
+      }
+    ]
   },
   {
     "fileName": "2023-W05",
@@ -204,6 +211,67 @@
         "relativePath": "Timestamps/Daily/2023/02-February/2023-02-03-Friday.md"
       }
     ]
+  },
+  {
+    "fileName": "2023-01-31-Tuesday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday.md",
+    "links": [
+      {
+        "link": "Petra",
+        "relativePath": "Literature Review/Petra.md"
+      },
+      {
+        "link": "ICICostost"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-W05",
+        "link": "2023-01-31-Tuesday#Outcomes",
+        "relativePath": "Timestamps/Weekly/2023-W05.md",
+        "cleanLink": "2023-01-31-Tuesday",
+        "displayText": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday > Outcomes"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-01-30-Monday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-30-Monday.md",
+    "links": [
+      {
+        "link": "Regolith",
+        "relativePath": "Regolith/Regolith.md"
+      },
+      {
+        "link": "Segah Reviews",
+        "relativePath": "Literature Review/Segah Reviews.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "2023-W05",
+        "link": "2023-01-30-Monday#Outcomes",
+        "relativePath": "Timestamps/Weekly/2023-W05.md",
+        "cleanLink": "2023-01-30-Monday",
+        "displayText": "Timestamps/Daily/2023/01-January/2023-01-30-Monday > Outcomes"
+      }
+    ]
+  },
+  {
+    "fileName": "2023-01-27-Friday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-27-Friday.md"
+  },
+  {
+    "fileName": "2023-01-26-Thursday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-26-Thursday.md"
+  },
+  {
+    "fileName": "2023-01-25-Wednesday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-25-Wednesday.md"
+  },
+  {
+    "fileName": "2023-01-24-Tuesday",
+    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-24-Tuesday.md"
   },
   {
     "fileName": "2023-02-08-Wednesday",
@@ -726,65 +794,66 @@
     ]
   },
   {
-    "fileName": "2023-01-31-Tuesday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday.md",
-    "links": [
+    "fileName": "2024-02-12-Monday",
+    "relativePath": "Timestamps/2024/02-February/2024-02-12-Monday.md",
+    "frontmatter": {
+      "created": "2024-02-12 21:55"
+    },
+    "headings": [
       {
-        "link": "Petra",
-        "relativePath": "Literature Review/Petra.md"
+        "heading": "Monday, February 12, 2024",
+        "level": 1
       },
       {
-        "link": "ICICostost"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2023-W05",
-        "link": "2023-01-31-Tuesday#Outcomes",
-        "relativePath": "Timestamps/Weekly/2023-W05.md",
-        "cleanLink": "2023-01-31-Tuesday",
-        "displayText": "Timestamps/Daily/2023/01-January/2023-01-31-Tuesday > Outcomes"
-      }
-    ]
-  },
-  {
-    "fileName": "2023-01-30-Monday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-30-Monday.md",
-    "links": [
-      {
-        "link": "Regolith",
-        "relativePath": "Regolith/Regolith.md"
+        "heading": "📅 Daily Questions",
+        "level": 3
       },
       {
-        "link": "Segah Reviews",
-        "relativePath": "Literature Review/Segah Reviews.md"
+        "heading": "🌜 Last night, after work, I...",
+        "level": 5
+      },
+      {
+        "heading": "🙌 One thing I've excited about right now is...",
+        "level": 5
+      },
+      {
+        "heading": "🚀 One+ thing I plan to accomplish today is...",
+        "level": 5
+      },
+      {
+        "heading": "👎 One thing I'm struggling with today is...",
+        "level": 5
+      },
+      {
+        "heading": "📝 Notes",
+        "level": 1
+      },
+      {
+        "heading": "Outcomes",
+        "level": 1
+      },
+      {
+        "heading": "Notes created today",
+        "level": 3
+      },
+      {
+        "heading": "Notes last touched today",
+        "level": 3
       }
     ],
-    "backlinks": [
+    "links": [
       {
-        "fileName": "2023-W05",
-        "link": "2023-01-30-Monday#Outcomes",
-        "relativePath": "Timestamps/Weekly/2023-W05.md",
-        "cleanLink": "2023-01-30-Monday",
-        "displayText": "Timestamps/Daily/2023/01-January/2023-01-30-Monday > Outcomes"
+        "link": "+Daily Notes"
+      },
+      {
+        "link": "2024-02-11-Sunday",
+        "displayText": "Yesterday"
+      },
+      {
+        "link": "2024-02-13-Tuesday",
+        "displayText": "Tomorrow"
       }
     ]
-  },
-  {
-    "fileName": "2023-01-27-Friday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-27-Friday.md"
-  },
-  {
-    "fileName": "2023-01-26-Thursday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-26-Thursday.md"
-  },
-  {
-    "fileName": "2023-01-25-Wednesday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-25-Wednesday.md"
-  },
-  {
-    "fileName": "2023-01-24-Tuesday",
-    "relativePath": "Timestamps/Daily/2023/01-January/2023-01-24-Tuesday.md"
   },
   {
     "fileName": "2024-01-07-Sunday",
@@ -1222,27 +1291,6 @@
     ]
   },
   {
-    "fileName": "Regolith",
-    "relativePath": "Regolith/Regolith.md",
-    "backlinks": [
-      {
-        "fileName": "2023-01-30-Monday",
-        "link": "Regolith",
-        "relativePath": "Timestamps/Daily/2023/01-January/2023-01-30-Monday.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Readme",
-    "relativePath": "Readme.md",
-    "links": [
-      {
-        "link": "Obsidian setup",
-        "relativePath": "Obsidian/Obsidian setup.md"
-      }
-    ]
-  },
-  {
     "fileName": "README",
     "relativePath": "README.md",
     "links": [
@@ -1257,24 +1305,12 @@
     ]
   },
   {
-    "fileName": "Perlite",
-    "relativePath": "Obsidian/Perlite.md",
-    "headings": [
+    "fileName": "Readme",
+    "relativePath": "Readme.md",
+    "links": [
       {
-        "heading": "One time setup",
-        "level": 4
-      },
-      {
-        "heading": "Themes",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Publish",
-        "link": "Perlite",
-        "relativePath": "Obsidian/Publish.md",
-        "displayText": "Obsidian/Perlite"
+        "link": "Obsidian setup",
+        "relativePath": "Obsidian/Obsidian setup.md"
       }
     ]
   },
@@ -1318,6 +1354,28 @@
     ]
   },
   {
+    "fileName": "Perlite",
+    "relativePath": "Obsidian/Perlite.md",
+    "headings": [
+      {
+        "heading": "One time setup",
+        "level": 4
+      },
+      {
+        "heading": "Themes",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Publish",
+        "link": "Perlite",
+        "relativePath": "Obsidian/Publish.md",
+        "displayText": "Obsidian/Perlite"
+      }
+    ]
+  },
+  {
     "fileName": "Obsidian setup",
     "relativePath": "Obsidian/Obsidian setup.md",
     "links": [
@@ -1332,24 +1390,24 @@
     ],
     "backlinks": [
       {
-        "fileName": "Readme",
-        "link": "Obsidian setup",
-        "relativePath": "Readme.md"
-      },
-      {
         "fileName": "README",
         "link": "Obsidian setup",
         "relativePath": "README.md"
+      },
+      {
+        "fileName": "Readme",
+        "link": "Obsidian setup",
+        "relativePath": "Readme.md"
       }
     ]
   },
   {
-    "fileName": "Obsidian Useage",
-    "relativePath": "Obsidian/Obsidian Useage.md"
-  },
-  {
     "fileName": "Daily note template",
     "relativePath": "Obsidian/Daily note template.md"
+  },
+  {
+    "fileName": "Obsidian Useage",
+    "relativePath": "Obsidian/Obsidian Useage.md"
   },
   {
     "fileName": "Calendar",
@@ -1389,6 +1447,14 @@
     ]
   },
   {
+    "fileName": "Troubleshooting",
+    "relativePath": "MAC/Troubleshooting.md"
+  },
+  {
+    "fileName": "DT-Modules",
+    "relativePath": "DarkTable/DT-Modules.md"
+  },
+  {
     "fileName": "DT-Intro",
     "relativePath": "DarkTable/DT-Intro.md",
     "headings": [
@@ -1397,10 +1463,6 @@
         "level": 3
       }
     ]
-  },
-  {
-    "fileName": "DT-Modules",
-    "relativePath": "DarkTable/DT-Modules.md"
   },
   {
     "fileName": "DT-StylesAndPresets",
@@ -1495,36 +1557,6 @@
     "relativePath": "Cert IV/S2 - Capture/S2 - F16 Rule.md"
   },
   {
-    "fileName": "S1-T1-Week1",
-    "relativePath": "Cert IV/S1 - Industry/S1-T1-Week1.md",
-    "headings": [
-      {
-        "heading": "Loading layers",
-        "level": 3
-      },
-      {
-        "heading": "Editing layers",
-        "level": 4
-      },
-      {
-        "heading": "Change canvas size",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "S1-Week2",
-    "relativePath": "Cert IV/S1 - Industry/S1-Week2.md"
-  },
-  {
-    "fileName": "S1-T2-Week2",
-    "relativePath": "Cert IV/S1 - Industry/S1-T2-Week2.md"
-  },
-  {
-    "fileName": "S4-T2-Week1",
-    "relativePath": "Cert IV/S4 - Lighting/S4-T2-Week1.md"
-  },
-  {
     "fileName": "S4-Week5",
     "relativePath": "Cert IV/S4 - Lighting/S4-Week5.md"
   },
@@ -1559,12 +1591,42 @@
     "relativePath": "Cert IV/S4 - Lighting/S4-Week1.md"
   },
   {
-    "fileName": "S3-Cubism",
-    "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md"
+    "fileName": "S4-T2-Week1",
+    "relativePath": "Cert IV/S4 - Lighting/S4-T2-Week1.md"
+  },
+  {
+    "fileName": "S1-T2-Week2",
+    "relativePath": "Cert IV/S1 - Industry/S1-T2-Week2.md"
+  },
+  {
+    "fileName": "S1-Week2",
+    "relativePath": "Cert IV/S1 - Industry/S1-Week2.md"
+  },
+  {
+    "fileName": "S1-T1-Week1",
+    "relativePath": "Cert IV/S1 - Industry/S1-T1-Week1.md",
+    "headings": [
+      {
+        "heading": "Loading layers",
+        "level": 3
+      },
+      {
+        "heading": "Editing layers",
+        "level": 4
+      },
+      {
+        "heading": "Change canvas size",
+        "level": 3
+      }
+    ]
   },
   {
     "fileName": "S3-Surrealism",
     "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Surrealism.md"
+  },
+  {
+    "fileName": "S3-Cubism",
+    "relativePath": "Cert IV/S3 - Creative Process and Communication/S3-Cubism.md"
   },
   {
     "fileName": "S3-Creative-Introduction",
@@ -1621,6 +1683,81 @@
       {
         "heading": "Elements and principles of design",
         "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Blog Template",
+    "relativePath": "Bins/Scratchpad Templates/Blog Template.md",
+    "tags": [
+      "blog"
+    ],
+    "headings": [
+      {
+        "heading": "{{title}}",
+        "level": 1
+      },
+      {
+        "heading": "Should I Write This?",
+        "level": 2
+      },
+      {
+        "heading": "Content Plan",
+        "level": 2
+      },
+      {
+        "heading": "Intro - What Makes It Interesting?",
+        "level": 3
+      },
+      {
+        "heading": "Main Content",
+        "level": 3
+      },
+      {
+        "heading": "What's my point of view on {{title}}? Do I have a background in {{title}}? Do I want to expand on an old idea?",
+        "level": 4
+      },
+      {
+        "heading": "What Questions do I get asked about this or would I ask about {{title}}",
+        "level": 4
+      },
+      {
+        "heading": "Problems",
+        "level": 4
+      },
+      {
+        "heading": "Solutions",
+        "level": 4
+      },
+      {
+        "heading": "What do I want them to know, feel or do?",
+        "level": 4
+      },
+      {
+        "heading": "Blog",
+        "level": 2
+      },
+      {
+        "heading": "{{title}}",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Achievements Template",
+    "relativePath": "Bins/Scratchpad Templates/Achievements Template.md",
+    "headings": [
+      {
+        "heading": "Today I Completed",
+        "level": 2
+      },
+      {
+        "heading": "Today I Made Progress on",
+        "level": 2
+      },
+      {
+        "heading": "Today I Started",
+        "level": 2
       }
     ]
   },
@@ -1705,81 +1842,6 @@
       {
         "link": "<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('YYYY-MM-DD-dddd') %>",
         "displayText": "Tomorrow"
-      }
-    ]
-  },
-  {
-    "fileName": "Blog Template",
-    "relativePath": "Bins/Scratchpad Templates/Blog Template.md",
-    "tags": [
-      "blog"
-    ],
-    "headings": [
-      {
-        "heading": "{{title}}",
-        "level": 1
-      },
-      {
-        "heading": "Should I Write This?",
-        "level": 2
-      },
-      {
-        "heading": "Content Plan",
-        "level": 2
-      },
-      {
-        "heading": "Intro - What Makes It Interesting?",
-        "level": 3
-      },
-      {
-        "heading": "Main Content",
-        "level": 3
-      },
-      {
-        "heading": "What's my point of view on {{title}}? Do I have a background in {{title}}? Do I want to expand on an old idea?",
-        "level": 4
-      },
-      {
-        "heading": "What Questions do I get asked about this or would I ask about {{title}}",
-        "level": 4
-      },
-      {
-        "heading": "Problems",
-        "level": 4
-      },
-      {
-        "heading": "Solutions",
-        "level": 4
-      },
-      {
-        "heading": "What do I want them to know, feel or do?",
-        "level": 4
-      },
-      {
-        "heading": "Blog",
-        "level": 2
-      },
-      {
-        "heading": "{{title}}",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Achievements Template",
-    "relativePath": "Bins/Scratchpad Templates/Achievements Template.md",
-    "headings": [
-      {
-        "heading": "Today I Completed",
-        "level": 2
-      },
-      {
-        "heading": "Today I Made Progress on",
-        "level": 2
-      },
-      {
-        "heading": "Today I Started",
-        "level": 2
       }
     ]
   }

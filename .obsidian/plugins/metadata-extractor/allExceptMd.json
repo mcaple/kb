@@ -25,6 +25,10 @@
       "relativePath": "DarkTable"
     },
     {
+      "name": "MAC",
+      "relativePath": "MAC"
+    },
+    {
       "name": "Nginx",
       "relativePath": "Nginx"
     },
@@ -33,36 +37,24 @@
       "relativePath": "Obsidian"
     },
     {
-      "name": "Regolith",
-      "relativePath": "Regolith"
-    },
-    {
       "name": "Timestamps",
       "relativePath": "Timestamps"
+    },
+    {
+      "name": "Regolith",
+      "relativePath": "Regolith"
     },
     {
       "name": "Trading",
       "relativePath": "Trading"
     },
     {
-      "name": "MAC",
-      "relativePath": "MAC"
-    },
-    {
-      "name": "Camera",
-      "relativePath": "Camera"
-    },
-    {
       "name": "Neo4j",
       "relativePath": "Neo4j"
     },
     {
-      "name": "Scratchpad Templates",
-      "relativePath": "Bins/Scratchpad Templates"
-    },
-    {
-      "name": "Templates",
-      "relativePath": "Bins/Templates"
+      "name": "Camera",
+      "relativePath": "Camera"
     },
     {
       "name": "S3 - Colour",
@@ -73,12 +65,24 @@
       "relativePath": "Cert IV/S3 - Creative Process and Communication"
     },
     {
+      "name": "S1 - Industry",
+      "relativePath": "Cert IV/S1 - Industry"
+    },
+    {
       "name": "S4 - Lighting",
       "relativePath": "Cert IV/S4 - Lighting"
     },
     {
-      "name": "S1 - Industry",
-      "relativePath": "Cert IV/S1 - Industry"
+      "name": "S2 - Capture",
+      "relativePath": "Cert IV/S2 - Capture"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Bins/Templates"
+    },
+    {
+      "name": "Scratchpad Templates",
+      "relativePath": "Bins/Scratchpad Templates"
     },
     {
       "name": "2023",
@@ -97,20 +101,12 @@
       "relativePath": "Timestamps/Weekly"
     },
     {
-      "name": "S2 - Capture",
-      "relativePath": "Cert IV/S2 - Capture"
-    },
-    {
       "name": "LinkedIn-Camera",
       "relativePath": "Camera/LinkedIn-Camera"
     },
     {
       "name": "Photographers",
       "relativePath": "Camera/Photographers"
-    },
-    {
-      "name": "2023",
-      "relativePath": "Timestamps/Daily/2023"
     },
     {
       "name": "02-February",
@@ -129,16 +125,24 @@
       "relativePath": "Timestamps/2023/05-May"
     },
     {
+      "name": "2023",
+      "relativePath": "Timestamps/Daily/2023"
+    },
+    {
       "name": "01-January",
       "relativePath": "Timestamps/2024/01-January"
     },
     {
-      "name": "01-January",
-      "relativePath": "Timestamps/Daily/2023/01-January"
+      "name": "02-February",
+      "relativePath": "Timestamps/2024/02-February"
     },
     {
       "name": "02-February",
       "relativePath": "Timestamps/Daily/2023/02-February"
+    },
+    {
+      "name": "01-January",
+      "relativePath": "Timestamps/Daily/2023/01-January"
     }
   ],
   "nonMdFiles": [
@@ -168,14 +172,14 @@
       "relativePath": "Attachments/Pasted image 20230201104039.png"
     },
     {
-      "name": "Pasted image 20230201105636.png",
-      "basename": "Pasted image 20230201105636",
-      "relativePath": "Attachments/Pasted image 20230201105636.png"
-    },
-    {
       "name": "Pasted image 20230201104845.png",
       "basename": "Pasted image 20230201104845",
       "relativePath": "Attachments/Pasted image 20230201104845.png"
+    },
+    {
+      "name": "Pasted image 20230201105636.png",
+      "basename": "Pasted image 20230201105636",
+      "relativePath": "Attachments/Pasted image 20230201105636.png"
     },
     {
       "name": "Pasted image 20230201120220.png",
@@ -193,19 +197,29 @@
       "relativePath": "Attachments/Pasted image 20230311150602.png"
     },
     {
+      "name": "Pasted image 20230311150842.png",
+      "basename": "Pasted image 20230311150842",
+      "relativePath": "Attachments/Pasted image 20230311150842.png"
+    },
+    {
+      "name": "Pasted image 20230311151105.png",
+      "basename": "Pasted image 20230311151105",
+      "relativePath": "Attachments/Pasted image 20230311151105.png"
+    },
+    {
       "name": "Pasted image 20230311151212.png",
       "basename": "Pasted image 20230311151212",
       "relativePath": "Attachments/Pasted image 20230311151212.png"
     },
     {
-      "name": "Pasted image 20230311162345.png",
-      "basename": "Pasted image 20230311162345",
-      "relativePath": "Attachments/Pasted image 20230311162345.png"
-    },
-    {
       "name": "Pasted image 20230311161938.png",
       "basename": "Pasted image 20230311161938",
       "relativePath": "Attachments/Pasted image 20230311161938.png"
+    },
+    {
+      "name": "Pasted image 20230311162345.png",
+      "basename": "Pasted image 20230311162345",
+      "relativePath": "Attachments/Pasted image 20230311162345.png"
     },
     {
       "name": "Pasted image 20230311162536.png",
@@ -363,6 +377,11 @@
       "relativePath": "Attachments/Pasted image 20230312115055.png"
     },
     {
+      "name": "Pasted image 20230312115115.png",
+      "basename": "Pasted image 20230312115115",
+      "relativePath": "Attachments/Pasted image 20230312115115.png"
+    },
+    {
       "name": "Pasted image 20230312115135.png",
       "basename": "Pasted image 20230312115135",
       "relativePath": "Attachments/Pasted image 20230312115135.png"
@@ -371,11 +390,6 @@
       "name": "Pasted image 20230312115200.png",
       "basename": "Pasted image 20230312115200",
       "relativePath": "Attachments/Pasted image 20230312115200.png"
-    },
-    {
-      "name": "Pasted image 20230312115115.png",
-      "basename": "Pasted image 20230312115115",
-      "relativePath": "Attachments/Pasted image 20230312115115.png"
     },
     {
       "name": "Pasted image 20230312115225.png",
@@ -408,14 +422,14 @@
       "relativePath": "Attachments/Pasted image 20230312115429.png"
     },
     {
-      "name": "Pasted image 20230312115530.png",
-      "basename": "Pasted image 20230312115530",
-      "relativePath": "Attachments/Pasted image 20230312115530.png"
-    },
-    {
       "name": "Pasted image 20230312115507.png",
       "basename": "Pasted image 20230312115507",
       "relativePath": "Attachments/Pasted image 20230312115507.png"
+    },
+    {
+      "name": "Pasted image 20230312115530.png",
+      "basename": "Pasted image 20230312115530",
+      "relativePath": "Attachments/Pasted image 20230312115530.png"
     },
     {
       "name": "Pasted image 20230312115612.png",
@@ -443,19 +457,14 @@
       "relativePath": "Attachments/Pasted image 20230312115748.png"
     },
     {
-      "name": "Pasted image 20230316120835.png",
-      "basename": "Pasted image 20230316120835",
-      "relativePath": "Attachments/Pasted image 20230316120835.png"
-    },
-    {
       "name": "Pasted image 20230316111846.png",
       "basename": "Pasted image 20230316111846",
       "relativePath": "Attachments/Pasted image 20230316111846.png"
     },
     {
-      "name": "Pasted image 20230316120914.png",
-      "basename": "Pasted image 20230316120914",
-      "relativePath": "Attachments/Pasted image 20230316120914.png"
+      "name": "Pasted image 20230316120835.png",
+      "basename": "Pasted image 20230316120835",
+      "relativePath": "Attachments/Pasted image 20230316120835.png"
     },
     {
       "name": "Pasted image 20230316120948.png",
@@ -463,14 +472,14 @@
       "relativePath": "Attachments/Pasted image 20230316120948.png"
     },
     {
+      "name": "Pasted image 20230316120914.png",
+      "basename": "Pasted image 20230316120914",
+      "relativePath": "Attachments/Pasted image 20230316120914.png"
+    },
+    {
       "name": "Pasted image 20230320185610.png",
       "basename": "Pasted image 20230320185610",
       "relativePath": "Attachments/Pasted image 20230320185610.png"
-    },
-    {
-      "name": "Pasted image 20230320190554.png",
-      "basename": "Pasted image 20230320190554",
-      "relativePath": "Attachments/Pasted image 20230320190554.png"
     },
     {
       "name": "Pasted image 20230320190621.png",
@@ -478,19 +487,14 @@
       "relativePath": "Attachments/Pasted image 20230320190621.png"
     },
     {
+      "name": "Pasted image 20230320190554.png",
+      "basename": "Pasted image 20230320190554",
+      "relativePath": "Attachments/Pasted image 20230320190554.png"
+    },
+    {
       "name": "Pasted image 20230320190739.png",
       "basename": "Pasted image 20230320190739",
       "relativePath": "Attachments/Pasted image 20230320190739.png"
-    },
-    {
-      "name": "Pasted image 20230311150842.png",
-      "basename": "Pasted image 20230311150842",
-      "relativePath": "Attachments/Pasted image 20230311150842.png"
-    },
-    {
-      "name": "Pasted image 20230311151105.png",
-      "basename": "Pasted image 20230311151105",
-      "relativePath": "Attachments/Pasted image 20230311151105.png"
     }
   ]
 }
